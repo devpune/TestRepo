@@ -1,0 +1,3789 @@
+{
+  "product": "Fusion",
+  "translations": [
+    {
+      "key": "language",
+      "value": "English"
+    },
+    {
+      "key": "greeting",
+      "value": ""
+    },
+    {
+      "key": "common.keyboard.toolbar.done",
+      "value": "Done1"
+    },
+    {
+      "key": "common.andSymbol",
+      "value": "&"
+    },
+    {
+      "key": "common.error",
+      "value": "Error"
+    },
+    {
+      "key": "common.ok",
+      "value": "OK"
+    },
+    {
+      "key": "common.cancel",
+      "value": "Cancel"
+    },
+    {
+      "key": "common.done",
+      "value": "Done"
+    },
+    {
+      "key": "common.navigation.back",
+      "value": "Back"
+    },
+    {
+      "key": "common.loading",
+      "value": "Loading..."
+    },
+    {
+      "key": "common.navigation.close",
+      "value": "Close"
+    },
+    {
+      "key": "common.internet.connection",
+      "value": "No internet connection"
+    },
+    {
+      "key": "bookingRetrieval.navigation.close",
+      "value": "Close"
+    },
+    {
+      "key": "bookingRetrieval.navigation.standalone.title",
+      "value": "Retrieve Booking"
+    },
+    {
+      "key": "bookingRetrieval.navigation.continue",
+      "value": "CONTINUE"
+    },
+    {
+      "key": "bookingRetrieval.retrievingBooking.loading",
+      "value": "Retrieving Booking..."
+    },
+    {
+      "key": "bookingRetrieval.title.addTrip",
+      "value": "Add Trip"
+    },
+    {
+      "key": "bookingRetrieval.title.checkIn",
+      "value": "Check In"
+    },
+    {
+      "key": "bookingRetrieval.optionTitle.bookingReferenceLastName",
+      "value": "Booking Reference and Last Name"
+    },
+    {
+      "key": "bookingRetrieval.textFieldPlaceholder.surname",
+      "value": "Last Name"
+    },
+    {
+      "key": "bookingRetrieval.textFieldPlaceholder.bookingReference",
+      "value": "Booking Reference"
+    },
+    {
+      "key": "bookingRetrieval.textFieldPlaceholder.eTicket",
+      "value": "e-Ticket Number"
+    },
+    {
+      "key": "bookingRetrieval.textFieldPlaceholder.bookingReferenceAndETicket",
+      "value": "e-Ticket Number/ Booking Reference"
+    },
+    {
+      "key": "bookingRetrieval.infoButton.bookingReference",
+      "value": "Booking Reference must be 6 characters"
+    },
+    {
+      "key": "bookingRetrieval.infoButton.eTicket",
+      "value": "e-Ticket Number must be between 1 and 35 characters"
+    },
+    {
+      "key": "bookingRetrieval.infoButton.bookingReferenceAndETicket",
+      "value": "Booking Reference must be 6 characters, e-Ticket number must be between 1 or 35 characters. "
+    },
+    {
+      "key": "bookingRetrieval.error.pnr.not.found",
+      "value": "Booking is not found"
+    },
+    {
+      "key": "bookingRetrieval.error.cancelled.booking",
+      "value": "Sorry your booking has been cancelled."
+    },
+    {
+      "key": "bookingRetrieval.error.common",
+      "value": "Server Error"
+    },
+    {
+      "key": "bookingRetrieval.bannerMessage.gotBooking.success",
+      "value": "Your trip was successfully retrieved."
+    },
+    {
+      "key": "bookingRetrieval.bannerMessage.gotBooking.error",
+      "value": "Error retrieving the trip."
+    },
+    {
+      "key": "bookingRetrieval.errorMessage.bookingReference",
+      "value": "Invalid Booking Reference"
+    },
+    {
+      "key": "bookingRetrieval.errorMessage.pnr",
+      "value": "Invalid Booking Reference"
+    },
+    {
+      "key": "bookingRetrieval.errorMessage.eTicket",
+      "value": "Invalid e-Ticket Number"
+    },
+    {
+      "key": "bookingRetrieval.errorMessage.bookingReferenceAndETicket",
+      "value": "Invalid Booking Ref or eTicket No."
+    },
+    {
+      "key": "bookingRetrieval.errorMessage.surname",
+      "value": "Invalid Surname"
+    },
+    {
+      "key": "passengerList.sectionHeader.notCheckedIn",
+      "value": "Not checked-in"
+    },
+    {
+      "key": "passengerList.sectionHeader.checkedIn",
+      "value": "Already checked-in"
+    },
+    {
+      "key": "passengerList.sectionHeader.unableToCheckIn",
+      "value": "Check-in at the counter"
+    },
+    {
+      "key": "passengerList.navigation.continue",
+      "value": "CONTINUE"
+    },
+    {
+      "key": "passengerList.navigationTitle.selectPassengers",
+      "value": "Select Passengers"
+    },
+    {
+      "key": "passengerList.navigationSubtitle.selectPassengers",
+      "value": "Check-in"
+    },
+    {
+      "key": "passengerList.error.unableToDisplayPassengers.title",
+      "value": "Error"
+    },
+    {
+      "key": "passengerList.error.unableToDisplayPassengers.message",
+      "value": "Sorry we are unable to find your booking details. Please try again later."
+    },
+    {
+      "key": "passengerList.error.confirmationButton",
+      "value": "Go back"
+    },
+    {
+      "key": "passengerList.passengerInfoButton",
+      "value": "Check in failed for one or more flights. Please, go to desk."
+    },
+    {
+      "key": "searchableList.placeholder.search",
+      "value": "Search"
+    },
+    {
+      "key": "searchableList.navigationTitle.nationality",
+      "value": "Nationality"
+    },
+    {
+      "key": "searchableList.navigationTitle.state",
+      "value": "Select state"
+    },
+    {
+      "key": "searchableList.navigationTitle.loyaltyProgram",
+      "value": "Select program"
+    },
+    {
+      "key": "searchableList.navigationTitle.issuingCountry",
+      "value": "Issuing Country"
+    },
+    {
+      "key": "searchableList.navigationTitle.residence",
+      "value": "Country of Residence"
+    },
+    {
+      "key": "searchableList.navigationTitle.country",
+      "value": "Country"
+    },
+    {
+      "key": "passengerDetails.navigationTitle.passengerInformation",
+      "value": "Passenger Information"
+    },
+    {
+      "key": "passengerDetails.error.unableToDownloadCountries",
+      "value": "Unable to download countries list, ensure you are connected to the internet or try again later."
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.genderField",
+      "value": "Gender"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.titleField",
+      "value": "Title"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.firstNameField",
+      "value": "First Name"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.middleNameField",
+      "value": "Middle Name"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.lastNameField",
+      "value": "Last Name"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.fullNameField",
+      "value": "Full Name"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.dateOfBirthField",
+      "value": "Date of Birth"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.countryOfNationalityField",
+      "value": "Country of Nationality"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.countryOfResidenceField",
+      "value": "Country of Residence"
+    },
+    {
+      "key": "passengerDetails.sectionHeader.emergencyContactDetailsSection",
+      "value": "Emergency Contact"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.ecdFirstNameField",
+      "value": "First Name"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.ecdLastNameField",
+      "value": "Last Name"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.ecdRelationshipField",
+      "value": "Relationship"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.ecdCountryOfResidenceField",
+      "value": "Country of Residence"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.ecdPhoneNumberField",
+      "value": "Phone Number"
+    },
+    {
+      "key": "passengerDetails.errorMessage.ecdFirstNameField",
+      "value": "Invalid first name"
+    },
+    {
+      "key": "passengerDetails.errorMessage.ecdLastNameField",
+      "value": "Invalid last name"
+    },
+    {
+      "key": "passengerDetails.errorMessage.ecdRelationshipField",
+      "value": "Invalid relationship"
+    },
+    {
+      "key": "passengerDetails.errorMessage.ecdPhoneNumberField",
+      "value": "Invalid phone number"
+    },
+    {
+      "key": "passengerDetails.errorMessage.ecdCountryOfResidenceField",
+      "value": "Please add a country of residence"
+    },
+    {
+      "key": "passengerDetails.infoButton.ecdFirstNameField",
+      "value": "Enter the first name of your emergency contact"
+    },
+    {
+      "key": "passengerDetails.infoButton.ecdLastNameField",
+      "value": "Enter the last name of your emergency contact"
+    },
+    {
+      "key": "passengerDetails.infoButton.ecdRelationshipField",
+      "value": "Enter the nature of the relationship between you and your emergency contact"
+    },
+    {
+      "key": "passengerDetails.infoButton.ecdPhoneNumberField",
+      "value": "Enter a phone number at which your emergency contact can be contacted"
+    },
+    {
+      "key": "passengerDetails.infoButton.ecdCountryOfResidenceField",
+      "value": "Enter the emergency contacts' country of residence"
+    },
+    {
+      "key": "passengerDetails.sectionHeader.personalDetailsSection",
+      "value": "Passenger Info"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.optional",
+      "value": "(Optional)"
+    },
+    {
+      "key": "passengerDetails.fieldValue.F",
+      "value": "Female"
+    },
+    {
+      "key": "passengerDetails.fieldValue.M",
+      "value": "Male"
+    },
+    {
+      "key": "passengerDetails.fieldValue.FEMALE",
+      "value": "Female"
+    },
+    {
+      "key": "passengerDetails.fieldValue.MALE",
+      "value": "Male"
+    },
+    {
+      "key": "passengerDetails.fieldValue.MR",
+      "value": "Mr"
+    },
+    {
+      "key": "passengerDetails.fieldValue.MRS",
+      "value": "Mrs"
+    },
+    {
+      "key": "passengerDetails.fieldValue.MS",
+      "value": "Ms"
+    },
+    {
+      "key": "passengerDetails.fieldValue.MISS",
+      "value": "Miss"
+    },
+    {
+      "key": "passengerDetails.fieldValue.MSTR",
+      "value": "Master"
+    },
+    {
+      "key": "passengerDetails.fieldValue.DR",
+      "value": "Dr"
+    },
+    {
+      "key": "passengerDetails.alert.progressWillBeLost",
+      "value": "By going back you will lose all your progress. Are you sure you want to go back?"
+    },
+    {
+      "key": "passengerDetails.infoButton.countryOfNationalityField",
+      "value": "Select the country where you were born."
+    },
+    {
+      "key": "passengerDetails.infoButton.countryOfResidenceField",
+      "value": "Select the country where you live."
+    },
+    {
+      "key": "passengerDetails.infoButton.fullNameField",
+      "value": "Enter your full name."
+    },
+    {
+      "key": "passengerDetails.infoButton.genderField",
+      "value": "Select your gender."
+    },
+    {
+      "key": "passengerDetails.infoButton.titleField",
+      "value": "Select your title i.e Mr, Mrs"
+    },
+    {
+      "key": "passengerDetails.infoButton.firstNameField",
+      "value": "Enter your first name."
+    },
+    {
+      "key": "passengerDetails.infoButton.middleNameField",
+      "value": "Enter your middle name."
+    },
+    {
+      "key": "passengerDetails.infoButton.lastNameField",
+      "value": "Enter your surname."
+    },
+    {
+      "key": "passengerDetails.infoButton.dateOfBirthField",
+      "value": "Enter the date you were born."
+    },
+    {
+      "key": "passengerDetails.errorMessage.surname",
+      "value": "Invalid surname"
+    },
+    {
+      "key": "passengerDetails.travellingWith",
+      "value": "Travelling with"
+    },
+    {
+      "key": "passengerDetails.errorMessage.dateOfBirthField",
+      "value": "Date of birth must be in the past"
+    },
+    {
+      "key": "passengerDetails.errorMessage.countryOfNationalityField",
+      "value": "Country of birth is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.countryOfResidenceField",
+      "value": "Country of residence is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.emergencyContactRelationship",
+      "value": "Relationship to passenger is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.emergencyContactPrefix",
+      "value": "Prefix is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.emergencyContactPhoneNumber",
+      "value": "Enter a valid phone number"
+    },
+    {
+      "key": "passengerDetails.errorMessage.fullNameField",
+      "value": "Name must be from 1 to 120 characters"
+    },
+    {
+      "key": "passengerDetails.errorMessage.genderField",
+      "value": "Gender is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.titleField",
+      "value": "Title is requied"
+    },
+    {
+      "key": "passengerDetails.errorMessage.firstNameField",
+      "value": "First name must be from 1 to 60 characters"
+    },
+    {
+      "key": "passengerDetails.errorMessage.middleNameField",
+      "value": "Middle name must be from 1 to 60 characters"
+    },
+    {
+      "key": "passengerDetails.errorMessage.lastNameField",
+      "value": "Last name must be from 1 to 60 characters"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.documentTypeField",
+      "value": "Document type"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.documentNumberField",
+      "value": "Document number"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.documentExpiryField",
+      "value": "Expiry date"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.documentIssuingCountryField",
+      "value": "Issuing country"
+    },
+    {
+      "key": "passengerDetails.errorMessage.documentTypeField",
+      "value": "Document type is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.documentNumberField",
+      "value": "Document number is alphanumeric and required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.documentExpiryField",
+      "value": "Expiry date not valid"
+    },
+    {
+      "key": "passengerDetails.errorMessage.documentIssuingCountryField",
+      "value": "Issuing country is required"
+    },
+    {
+      "key": "passengerDetails.infoButton.documentTypeField",
+      "value": "Select document type from the list"
+    },
+    {
+      "key": "passengerDetails.infoButton.documentNumberField",
+      "value": "Selected document serial number"
+    },
+    {
+      "key": "passengerDetails.infoButton.documentExpiryField",
+      "value": "Your travel document must be valid for the duration of your trip"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.documentIssueDateField",
+      "value": "Issue date"
+    },
+    {
+      "key": "passengerDetails.errorMessage.documentIssueDateField",
+      "value": "Issue Date not valid"
+    },
+    {
+      "key": "passengerDetails.infoButton.documentIssueDateField",
+      "value": "Please enter Issue Date"
+    },
+    {
+      "key": "passengerDetails.infoButton.documentIssuingCountryField",
+      "value": "Country issued the document"
+    },
+    {
+      "key": "passengerDetails.sectionHeader.travelDocumentSection",
+      "value": "Travel document info"
+    },
+    {
+      "key": "passengerDetails.fieldValue.PASSPORT",
+      "value": "Passport"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.required",
+      "value": "(Required)"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.knownTravellerNumberField",
+      "value": "Known Traveller Number"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.redressNumberField",
+      "value": "Redress Number"
+    },
+    {
+      "key": "passengerDetails.sectionHeader.destinationSection",
+      "value": "Destination Address"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.destinationCityField",
+      "value": "City"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.destinationStateField",
+      "value": "State"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.destinationAddressField",
+      "value": "Address"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.destinationZipcodeField",
+      "value": "Zip/Postal Code"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.destinationCountryField",
+      "value": "Country"
+    },
+    {
+      "key": "passengerDetails.sectionHeader.residentDestinationSection",
+      "value": "Residence Address"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.residenceCityField",
+      "value": "City"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.residenceStateField",
+      "value": "State"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.residenceAddressField",
+      "value": "Address"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.residenceZipcodeField",
+      "value": "Zip/Postal Code"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.residenceCountryField",
+      "value": "Country"
+    },
+    {
+      "key": "passengerDetails.sectionHeader.ffpDetailsSection",
+      "value": "Loyalty"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.ffpNumberField",
+      "value": "Loyalty Number"
+    },
+    {
+      "key": "passengerDetails.errorMessage.ffpNumberField",
+      "value": "Invalid loyalty number"
+    },
+    {
+      "key": "passengerDetails.infoButton.emergencyContactDetails",
+      "value": "Enter emergency contact details"
+    },
+    {
+      "key": "passengerDetails.infoButton.ffpNumberField",
+      "value": "Enter your frequent flyer number"
+    },
+    {
+      "key": "passengerDetails.textFieldPlaceholder.ffpNameField",
+      "value": "Loyalty Name"
+    },
+    {
+      "key": "passengerDetails.errorMessage.ffpNameField",
+      "value": "Invalid loyalty name"
+    },
+    {
+      "key": "passengerDetails.infoButton.ffpNameField",
+      "value": "Some info about loyalty name"
+    },
+    {
+      "key": "passengerDetails.errorMessage.redressNumberField",
+      "value": "Redress Number is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.knownTravellerNumberField",
+      "value": "Known Traveller Number is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.destinationCityField",
+      "value": "City is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.destinationStateField",
+      "value": "State is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.destinationAddressField",
+      "value": "Address is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.destinationZipcodeField",
+      "value": "Zip/Postal Code is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.destinationCountryField",
+      "value": "Country is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.residenceCityField",
+      "value": "City is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.residenceStateField",
+      "value": "State is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.residenceAddressField",
+      "value": "Address is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.residenceZipcodeField",
+      "value": "Zip/Postal Code is required"
+    },
+    {
+      "key": "passengerDetails.errorMessage.residenceCountryField",
+      "value": "Country is required"
+    },
+    {
+      "key": "passengerDetails.infoButton.residenceCityField",
+      "value": "Enter your city of residence."
+    },
+    {
+      "key": "passengerDetails.infoButton.residenceStateField",
+      "value": "Enter your state or choose 'Other' if not applicable."
+    },
+    {
+      "key": "passengerDetails.infoButton.residenceAddressField",
+      "value": "Enter your residence address."
+    },
+    {
+      "key": "passengerDetails.infoButton.residenceZipcodeField",
+      "value": "Enter your Zip/Postal Code"
+    },
+    {
+      "key": "passengerDetails.infoButton.residenceCountryField",
+      "value": "Enter your country of residence."
+    },
+    {
+      "key": "passengerDetails.selection.other",
+      "value": "Other"
+    },
+    {
+      "key": "passengerDetails.scanPassport.title",
+      "value": "SCAN PASSPORT"
+    },
+    {
+      "key": "checkInSummary.error.generic",
+      "value": "Server error"
+    },
+    {
+      "key": "checkInSummary.error.timeout",
+      "value": "Connection timeout"
+    },
+    {
+      "key": "checkInSummary.error.noInternetConnection",
+      "value": "No internet connection"
+    },
+    {
+      "key": "checkInSummary.action.performCheckIn",
+      "value": "Check In"
+    },
+    {
+      "key": "checkInSummary.error.unableToDisplaySummary",
+      "value": "There is an issue updating your booking and we are unable to check you in, please try again. If this issue persists you can check-in at the airport."
+    },
+    {
+      "key": "checkInSummary.title.checkIn",
+      "value": "Check In"
+    },
+    {
+      "key": "checkInSummary.hazardousMaterials.button",
+      "value": "HAZARDOUS MATERIALS"
+    },
+    {
+      "key": "checkInSecurityQuestions.navigationTitle",
+      "value": "Security Questions"
+    },
+    {
+      "key": "checkInSecurityQuestions.informationText",
+      "value": "Please answer the following security questions."
+    },
+    {
+      "key": "checkInSecurityQuestions.radioButton.trueOption",
+      "value": "YES"
+    },
+    {
+      "key": "checkInSecurityQuestions.radioButton.falseOption",
+      "value": "NO"
+    },
+    {
+      "key": "checkInSecurityQuestions.warningAlert.title",
+      "value": "Warning: Security Check Failed"
+    },
+    {
+      "key": "checkInSecurityQuestions.warningAlert.message",
+      "value": "Please remove all liquids, aerosols, gels or sharp objects from your carry-on baggage before continuing with your check-in process, as these items are prohibited in your check-in process."
+    },
+    {
+      "key": "checkInSecurityQuestions.warningAlert.actionButtonText",
+      "value": "OK"
+    },
+    {
+      "key": "checkInSecurityQuestions.continueButton.title",
+      "value": "CONTINUE"
+    },
+    {
+      "key": "checkInComplete.checkIn.loading",
+      "value": "Checking in..."
+    },
+    {
+      "key": "checkInComplete.checkInStatus.checkedIn",
+      "value": "View boarding pass"
+    },
+    {
+      "key": "checkInComplete.checkInStatus.notCheckedIn",
+      "value": "Not checked-in"
+    },
+    {
+      "key": "checkInComplete.checkInStatus.failedCheckIn",
+      "value": "Check-in failed"
+    },
+    {
+      "key": "checkInComplete.checkInStatus.alert",
+      "value": "Checked in, boarding pass unavailable"
+    },
+    {
+      "key": "checkInComplete.navigationTitle",
+      "value": "Check-in complete"
+    },
+    {
+      "key": "checkInComplete.viewBoardingPasses.navigationTitle",
+      "value": "Boarding Passes"
+    },
+    {
+      "key": "checkInComplete.action.viewBoardingPasses",
+      "value": "View Boarding Passes"
+    },
+    {
+      "key": "checkInComplete.action.viewBoardingPass",
+      "value": "View Boarding Pass"
+    },
+    {
+      "key": "checkInComplete.action.goToMyTrips",
+      "value": "Go to my Trips"
+    },
+    {
+      "key": "checkInComplete.checkInStatusHeader.successfullyCheckedIn",
+      "value": "Check-in was successful. View your boarding passes."
+    },
+    {
+      "key": "checkInComplete.checkInStatusHeader.partiallyCheckedIn",
+      "value": "Check-in partially successful. See below for details."
+    },
+    {
+      "key": "checkInComplete.checkInStatusHeader.failedCheckIn",
+      "value": "Check-in failed."
+    },
+    {
+      "key": "checkInComplete.checkInStatusHeader.partialBoardingPassesAvailable",
+      "value": "Check-in partially successful. See below for details."
+    },
+    {
+      "key": "checkInComplete.checkInStatusHeader.noBoardingPassesAvailable",
+      "value": "Check-in partially successful. See below for details."
+    },
+    {
+      "key": "checkInComplete.error.generic",
+      "value": "Sorry we are unable to check you in at the moment, please try again. If this issue persists you can check-in at the airport."
+    },
+    {
+      "key": "checkInComplete.checkIn.emptyState.genericRetrievalError",
+      "value": "Oops, something went wrong. Go back or try again."
+    },
+    {
+      "key": "checkInComplete.viewBoardingPasses.emptyState.genericRetrievalError",
+      "value": "Oops, something went wrong. Go back or try again."
+    },
+    {
+      "key": "checkInComplete.checkIn.emptyState.noInternetConnection",
+      "value": "Oops, Looks like you’re offline. Make sure you’re online then try again."
+    },
+    {
+      "key": "checkInComplete.viewBoardingPasses.emptyState.noInternetConnection",
+      "value": "Oops, Looks like you’re offline. Make sure you’re online then try again."
+    },
+    {
+      "key": "checkInComplete.checkIn.emptyState.tryAgain",
+      "value": "Try Again"
+    },
+    {
+      "key": "checkInComplete.viewBoardingPasses.emptyState.tryAgain",
+      "value": "Try Again"
+    },
+    {
+      "key": "checkInComplete.additionalInformation.boardingPassNotAvailable",
+      "value": "This person is checked in but we can’t generate a mobile boarding pass for this passenger. Please get your boarding pass at the airport."
+    },
+    {
+      "key": "checkInComplete.additionalInformation.checkInFailed",
+      "value": "Sorry, check in has failed for this passenger. Please contact us for more information."
+    },
+    {
+      "key": "checkInComplete.additionalInformation.title.note",
+      "value": "Note"
+    },
+    {
+      "key": "seatMap.navigationTitle.seatSelection",
+      "value": "Select your seat"
+    },
+    {
+      "key": "seatMap.flightLeg.titleFormat",
+      "value": "%@ to %@"
+    },
+    {
+      "key": "seatMap.exitLabel",
+      "value": "EXIT"
+    },
+    {
+      "key": "seatMap.errorMessage.unableToRetrieveSeatmap",
+      "value": "Sorry, we are unable to retrieve this seat map at this time. Would you like to skip seat selection for this flight or try again?"
+    },
+    {
+      "key": "seatMap.errorMessage.unableToRetrieveSeatmap.skipThisFlight",
+      "value": "Skip this flight"
+    },
+    {
+      "key": "seatMap.errorMessage.unableToRetrieveSeatmap.tryAgain",
+      "value": "Try again"
+    },
+    {
+      "key": "seatMap.actionButton.nextFlight",
+      "value": "Next Flight"
+    },
+    {
+      "key": "seatMap.errorMessage.unableToSelectSeat",
+      "value": "Sorry, we were unable to confirm your selected seat. Please select another seat."
+    },
+    {
+      "key": "seatMap.warning.incompleteSeatSelection.title",
+      "value": "Missing Seats"
+    },
+    {
+      "key": "seatMap.warning.incompleteSeatSelection.message",
+      "value": "Not all seats were assigned to passengers. Click continue to confirm your choice or cancel to correct your selection."
+    },
+    {
+      "key": "seatMap.warning.incompleteSeatSelection.continueAction",
+      "value": "Continue"
+    },
+    {
+      "key": "seatMap.warning.incompleteSeatSelection.cancelAction",
+      "value": "Cancel"
+    },
+    {
+      "key": "seatMap.warning.notEnoughAvailableSeats.title",
+      "value": "Not Enough Seats"
+    },
+    {
+      "key": "seatMap.warning.notEnoughAvailableSeat.message",
+      "value": "Sorry we are unable to seat all passengers on the mobile app. You can tap done to skip seat selection and a seat will be assigned to you at the airport or contact us for assistance."
+    },
+    {
+      "key": "seatMap.warning.notEnoughAvailableSeat.okAction",
+      "value": "Ok"
+    },
+    {
+      "key": "seatMap.warning.notEnoughAvailableSeat.contactUsAction",
+      "value": "Contact Us"
+    },
+    {
+      "key": "seatMap.warning.paidSeatChangeNotAllowed.title",
+      "value": "Unable to change seat"
+    },
+    {
+      "key": "seatMap.warning.paidSeatChangeNotAllowed.message",
+      "value": "You cannot change your seat allocation if it has already been paid for."
+    },
+    {
+      "key": "seatMap.warning.paidSeatChangeNotAllowed.okAction",
+      "value": "Ok"
+    },
+    {
+      "key": "seatMap.warning.incompleteSeatSelection.checkin.message",
+      "value": "Not all seats were assigned to passengers. Please select a seat to check-in."
+    },
+    {
+      "key": "seatMap.selectSeat",
+      "value": "Select Seat"
+    },
+    {
+      "key": "seatMap.selectedSeatFormat",
+      "value": "Seat %@"
+    },
+    {
+      "key": "seatMap.seatAssignmentError.title",
+      "value": "Seat Assignment Failed"
+    },
+    {
+      "key": "seatMap.seatAssignmentError.message",
+      "value": "Sorry, we were unable to confirm your seat selections. Please try again."
+    },
+    {
+      "key": "seatMap.seatAssignmentError.actionTitle",
+      "value": "Ok"
+    },
+    {
+      "key": "seatMap.seatSelectionWarning.invalidInfantSelection",
+      "value": "Passengers with infants may only sit in infant-friendly seats."
+    },
+    {
+      "key": "seatMap.seatSelectionWarning.exitRowSelectionWarning",
+      "value": "Exit row seats are available for adults only."
+    },
+    {
+      "key": "seatMap.navigationBarButton.done",
+      "value": "Done"
+    },
+    {
+      "key": "seatMap.navigationBarButton.skip",
+      "value": "Skip"
+    },
+    {
+      "key": "seatMap.emptyState.tryAgain",
+      "value": "Try again"
+    },
+    {
+      "key": "seatMap.emptyState.genericRetrievalError",
+      "value": "Oops, something went wrong."
+    },
+    {
+      "key": "seatMap.emptyState.noInternetConnection",
+      "value": "Oops, Looks like you’re offline. Make sure you’re online then try again."
+    },
+    {
+      "key": "seatMap.preassignedChargeableSeat.selectionNotAllowed.title",
+      "value": "%@"
+    },
+    {
+      "key": "seatMap.preassignedChargeableSeat.selectionNotAllowed.message",
+      "value": "You are unable to change your seat because you have a paid seat. If you would like to change your seat you can manage your booking on our website."
+    },
+    {
+      "key": "seatMap.preassignedChargeableSeat.selectionNotAllowed.okAction",
+      "value": "Ok"
+    },
+    {
+      "key": "seatMap.seatInfo.select",
+      "value": "Select"
+    },
+    {
+      "key": "seatMap.seatInfo.close",
+      "value": "Close"
+    },
+    {
+      "key": "seatMap.seatInfo.seatNumber",
+      "value": "Seat %@"
+    },
+    {
+      "key": "seatMap.seatInfo.characteristic.extraLegroom",
+      "value": "Extra Leg Room"
+    },
+    {
+      "key": "seatMap.seatInfo.characteristic.paidSeat",
+      "value": "Paid Seat"
+    },
+    {
+      "key": "seatMap.seatInfo.characteristic.freeSeat",
+      "value": "Free Seat"
+    },
+    {
+      "key": "seatMap.seatInfo.characteristic.unavailable",
+      "value": "Unavailable"
+    },
+    {
+      "key": "seatMap.seatInfo.characteristic.nonInfantSeat",
+      "value": "Restricted"
+    },
+    {
+      "key": "seatMap.seatInfo.refundWarning",
+      "value": "Your original seat will not be refunded"
+    },
+    {
+      "key": "seatMap.seatInfo.free",
+      "value": "FREE"
+    },
+    {
+      "key": "seatMap.seatInfo.safetyMessage",
+      "value": "Safety Message"
+    },
+    {
+      "key": "seatMap.seatInfo.safetyContent",
+      "value": "Sitting in an exit row seat comes with important responsibilities. You may be required to assist our crew if there is an emergency. For this reason, the following conditions will restrict you from seating in an exit row seat:\n1. Physical condition which may prevent a customer from assisting crew during an emergency;\n2. Customers of large body frame and/or big built who may require an extension seat belt;\n3. Lack of strength, mobility, dexterity, or balance required to open the exit;\n4. Inability to quickly reach the exit, open it and evacuate the aircraft;\n5. Hearing or visual impairment;\n6. Not being able to understand and carry out instructions;\n7. Have other responsibilities that would prevent you from assisting crew during an emergency (such as small children to care for);\n8. Aged less than 15 years;\n9. Pregnancy;and\n10. In the event of an emergency be able to reach, open, lift and throw out an exit door that weighs up to 30 kg\n%@ has the sole discretion, at check-in or boarding, to determine if a customer meets the requirements to sit in an exit row seat. A customer that does not meet these important requirements will be assigned to a different seat."
+    },
+    {
+      "key": "seatMap.selectionUnavailable.title",
+      "value": "Seat selection unavailable"
+    },
+    {
+      "key": "seatMap.selectionUnavailable.message",
+      "value": "Seats will be automatically assigned for this flight"
+    },
+    {
+      "key": "passbook.error.genericPassbookError",
+      "value": "Sorry, we were unable to retrieve your boarding pass. Please try again later."
+    },
+    {
+      "key": "passbook.error.invalidPassError",
+      "value": "Sorry, we were unable to retrieve your boarding pass. Please try again later."
+    },
+    {
+      "key": "passbook.error.noPassLibraryError",
+      "value": "Your device does not supports boarding passes."
+    },
+    {
+      "key": "passbook.error.noPassesError",
+      "value": "Sorry, we were unable to retrieve your boarding pass. Please try again later."
+    },
+    {
+      "key": "passbook.error.serverError",
+      "value": "Sorry, we were unable to retrieve your boarding pass. Please try again later."
+    },
+    {
+      "key": "passbook.error.requestError",
+      "value": "Sorry, we were unable to retrieve your boarding pass. Please try again later."
+    },
+    {
+      "key": "passbook.error.title",
+      "value": "Boarding Pass"
+    },
+    {
+      "key": "flightStatus.title",
+      "value": "Flight Status"
+    },
+    {
+      "key": "flightStatus.tab.title.route",
+      "value": "Route"
+    },
+    {
+      "key": "flightStatus.tab.title.number",
+      "value": "Flight Number"
+    },
+    {
+      "key": "flightStatus.action.search",
+      "value": "SEARCH"
+    },
+    {
+      "key": "flightStatus.route.placeholder.departureAirport",
+      "value": "Departure"
+    },
+    {
+      "key": "flightStatus.route.placeholder.arrivalAirport",
+      "value": "Arrival"
+    },
+    {
+      "key": "flightStatus.route.placeholder.departureDate",
+      "value": "Departure Date"
+    },
+    {
+      "key": "flightStatus.route.departureDate.dialog.title",
+      "value": "Departure Date"
+    },
+    {
+      "key": "flightStatus.route.departureDate.dialog.positiveButton",
+      "value": "OK"
+    },
+    {
+      "key": "flightStatus.route.departureDate.dialog.negativeButton",
+      "value": "CANCEL"
+    },
+    {
+      "key": "flightStatus.route.dialog.genericError",
+      "value": "Sorry, we were unable to process your request. Please try again later."
+    },
+    {
+      "key": "flightStatus.route.dialog.genericErrorTitle",
+      "value": "Error"
+    },
+    {
+      "key": "flightStatus.route.dialog.flightNotFound",
+      "value": "There are no direct flights between these airports on this day."
+    },
+    {
+      "key": "flightStatus.number.dialog.flightNotFound",
+      "value": "Sorry, no flight on this date."
+    },
+    {
+      "key": "flightStatus.number.placeholder.flightNumber",
+      "value": "Flight Number"
+    },
+    {
+      "key": "flightStatus.number.alphanumeric.validation.textHint",
+      "value": ""
+    },
+    {
+      "key": "flightStatus.number.alphanumeric.validation.errorMessage",
+      "value": ""
+    },
+    {
+      "key": "flightStatus.results.scheduledTimes",
+      "value": "Scheduled"
+    },
+    {
+      "key": "flightStatus.results.status.unknown",
+      "value": "Unknown"
+    },
+    {
+      "key": "flightStatus.results.status.active",
+      "value": "En Route"
+    },
+    {
+      "key": "flightStatus.results.status.scheduled",
+      "value": "Scheduled"
+    },
+    {
+      "key": "flightStatus.results.status.arrived",
+      "value": "Arrived"
+    },
+    {
+      "key": "flightStatus.results.status.delayed",
+      "value": "Delayed"
+    },
+    {
+      "key": "flightStatus.results.status.cancelled",
+      "value": "Cancelled"
+    },
+    {
+      "key": "flightStatus.results.status.redirected",
+      "value": "Redirected"
+    },
+    {
+      "key": "flightStatus.results.status.diverted",
+      "value": "Diverted"
+    },
+    {
+      "key": "flightStatus.results.status.updated",
+      "value": "Updated"
+    },
+    {
+      "key": "flightStatus.results.status.cancelled.warning",
+      "value": "Flight cancelled. Please contact carrier."
+    },
+    {
+      "key": "flightStatus.results.departure",
+      "value": "Departure"
+    },
+    {
+      "key": "flightStatus.results.arrival",
+      "value": "Arrival"
+    },
+    {
+      "key": "flightStatus.results.arrival.unknown",
+      "value": "Unknown"
+    },
+    {
+      "key": "flightStatus.results.terminal",
+      "value": "Terminal"
+    },
+    {
+      "key": "flightStatus.results.gate",
+      "value": "Gate"
+    },
+    {
+      "key": "flightStatus.results.chip.daysOne",
+      "value": "1"
+    },
+    {
+      "key": "flightStatus.results.chip.daysTwo",
+      "value": "2"
+    },
+    {
+      "key": "navigation.tabTitle.home",
+      "value": "Home"
+    },
+    {
+      "key": "navigation.tabTitle.mytrips",
+      "value": "My Trips"
+    },
+    {
+      "key": "navigation.tabTitle.loyalty",
+      "value": "Loyalty"
+    },
+    {
+      "key": "navigation.tabTitle.flightstatus",
+      "value": "Flight Status"
+    },
+    {
+      "key": "navigation.tabTitle.checkin",
+      "value": "Check In"
+    },
+    {
+      "key": "fusion.home.bookFlights",
+      "value": "BOOK FLIGHTS"
+    },
+    {
+      "key": "dynamicMenu.navigationTitle",
+      "value": "Information"
+    },
+    {
+      "key": "dynamicMenu.legalInfo.text",
+      "value": "This app was created by Travelport Digital"
+    },
+    {
+      "key": "dynamicMenu.emptyState.genericRetrievalError",
+      "value": "Oops, something went wrong."
+    },
+    {
+      "key": "dynamicMenu.emptyState.noInternetConnection",
+      "value": "Oops, Looks like you’re offline. Make sure you’re online then try again."
+    },
+    {
+      "key": "dynamicMenu.emptyState.tryAgain",
+      "value": "Try Again"
+    },
+    {
+      "key": "flightSummary.error.unableToDisplayFlights",
+      "value": "Sorry, we are unable to display your flights at this time. Please try again later."
+    },
+    {
+      "key": "flightSummary.error.unableToCheckIn.title",
+      "value": "Unable to check-in"
+    },
+    {
+      "key": "flightSummary.checkInButton.title",
+      "value": "CHECK IN"
+    },
+    {
+      "key": "flightSummary.checkInStatus.OPEN",
+      "value": "Check-in open"
+    },
+    {
+      "key": "flightSummary.checkInStatus.CLOSED",
+      "value": "Check-in closed"
+    },
+    {
+      "key": "flightSummary.checkInStatus.NOT_OPEN",
+      "value": "Check-in not open yet"
+    },
+    {
+      "key": "flightSummary.checkInStatus.NOT_AVAILABLE",
+      "value": "Check-in unavailable"
+    },
+    {
+      "key": "flightSummary.checkInStatus.NOT_ALLOWED",
+      "value": "Check-in unavailable"
+    },
+    {
+      "key": "flightSummary.unableToCheckIn.infoMessage.CLOSED",
+      "value": "Mobile check-in is now closed for this flight, you may still be able to check-in at the airport."
+    },
+    {
+      "key": "flightSummary.unableToCheckIn.infoMessage.NOT_OPEN",
+      "value": "Mobile check-in is not open yet."
+    },
+    {
+      "key": "flightSummary.unableToCheckIn.infoMessage.NOT_AVAILABLE",
+      "value": "Mobile check-in is currently unavailable for this flight, please try again later or check-in at the airport."
+    },
+    {
+      "key": "flightSummary.unableToCheckIn.infoMessage.NOT_ALLOWED",
+      "value": "Mobile check-in is not allowed for this flight. Please check-in at the airport."
+    },
+    {
+      "key": "flightSummary.checkInStatus.alert.ok",
+      "value": "OK, GOT IT"
+    },
+    {
+      "key": "flightSummary.screenHeader.instructionalMessage",
+      "value": "Select the flights you would like to check-in for"
+    },
+    {
+      "key": "flightSummary.navigation.continue",
+      "value": "Continue"
+    },
+    {
+      "key": "flightSummary.navigationTitle",
+      "value": "Select Flights"
+    },
+    {
+      "key": "flightSummary.emptyState.noInternetConnection",
+      "value": "Oops, Looks like you’re offline. Make sure you’re online then try again."
+    },
+    {
+      "key": "flightSummary.emptyState.genericRetrievalError",
+      "value": "Oops, something went wrong."
+    },
+    {
+      "key": "flightSummary.emptyState.tryAgain",
+      "value": "Try Again"
+    },
+    {
+      "key": "hazmat.title.prohibitedItems",
+      "value": "Prohibited Items"
+    },
+    {
+      "key": "hazmat.action.continue",
+      "value": "Continue"
+    },
+    {
+      "key": "hazmat.items.list",
+      "value": "Cabin and Hold baggage prohibited items:\n\nExplosives and incendiary substances and devices\n\nFlammable Gases, Liquids & Solids\n\nCorrosive Substances and Oxidizers\n\nRadioactive Substances and Medicines\n\nHover Boards and other Personal Movement vehicles\n\nLithium Ion Batteries\n\nPoisons\n\nCabin baggage prohibited items:\n\nGuns, firearms and other devices that discharge projectiles\n\nTools capable of causing injury or threaten aircraft safety\n\nSharp point or sharp edge objects capable of causing injury\n\nBlunt instruments capable of causing serious injury when used to hit\n\nDevices designed specifically to stun or immobilise"
+    },
+    {
+      "key": "hazmat.intro.introText",
+      "value": "By selecting ‘%@’ you agree not to carry any prohibited items onboard. \n\nSee our website for terms and conditions. \n\nProhibited items include but are not limited to:"
+    },
+    {
+      "key": "hazmat.intro.underlinedIntroText",
+      "value": "Dangerous Goods Policy"
+    },
+    {
+      "key": "hazmat.intro.underlinedIntroText.url",
+      "value": "https://www.travelport.com/terms-and-conditions"
+    },
+    {
+      "key": "wrappedBooking.navigationTitle",
+      "value": "Book Flights"
+    },
+    {
+      "key": "wrappedBooking.alert.progressWillBeLost",
+      "value": "By going back you will lose all your progress. Are you sure you want to go back?"
+    },
+    {
+      "key": "wrappedBooking.alert.urlCantBeOpen",
+      "value": "Sorry, we can't open the page. Try again later."
+    },
+    {
+      "key": "loyalty.login.register.intro",
+      "value": "Don't have an account?"
+    },
+    {
+      "key": "loyalty.login.register.intro.action",
+      "value": "Register"
+    },
+    {
+      "key": "loyalty.login.showPassword",
+      "value": "Show"
+    },
+    {
+      "key": "loyalty.login.hidePassword",
+      "value": "Hide"
+    },
+    {
+      "key": "loyalty.login.placeholder.username",
+      "value": "Username, Email or Loyalty No."
+    },
+    {
+      "key": "loyalty.login.placeholder.password",
+      "value": "Password"
+    },
+    {
+      "key": "loyalty.login.action.login",
+      "value": "Login"
+    },
+    {
+      "key": "loyalty.login.forgotPassword",
+      "value": "Forgot Password?"
+    },
+    {
+      "key": "loyalty.dashboard.tierCode.GOLD_MEMBER",
+      "value": "Gold Member"
+    },
+    {
+      "key": "loyalty.dashboard.tierCode.SILVER_MEMBER",
+      "value": "Silver Member"
+    },
+    {
+      "key": "loyalty.dashboard.balance.GOLD_MILES",
+      "value": "Gold Miles"
+    },
+    {
+      "key": "loyalty.dashboard.balance.SILVER_MILES",
+      "value": "Silver Miles"
+    },
+    {
+      "key": "loyalty.dashboard.balance.BRONZE_OTHER_MILES",
+      "value": "Bronze Other Miles"
+    },
+    {
+      "key": "loyalty.dashboard.balance.expiration",
+      "value": "Expires: %@"
+    },
+    {
+      "key": "loyalty.dashboard.logout",
+      "value": "Logout"
+    },
+    {
+      "key": "loyalty.dashboard.loyaltyNumber.title",
+      "value": "Loyalty Number"
+    },
+    {
+      "key": "loyalty.dashboard.emptyState.genericRetrievalError",
+      "value": "Oops, something went wrong."
+    },
+    {
+      "key": "loyalty.dashboard.emptyState.noInternetConnection",
+      "value": "Oops, Looks like you’re offline. Make sure you’re online then try again."
+    },
+    {
+      "key": "loyalty.dashboard.emptyState.tryAgain",
+      "value": "Try Again"
+    },
+    {
+      "key": "fusion.forceUpgrade.required.title",
+      "value": "Application Update Required"
+    },
+    {
+      "key": "fusion.forceUpgrade.required.message",
+      "value": "This version of the app is no longer supported. Please update to the latest version."
+    },
+    {
+      "key": "fusion.forceUpgrade.required.confirmAction",
+      "value": "Update now"
+    },
+    {
+      "key": "fusion.forceUpgrade.recommended.title",
+      "value": "There is a new version of the app available"
+    },
+    {
+      "key": "fusion.forceUpgrade.recommended.message",
+      "value": "This version of the app will be unsupported soon. Please update to the latest version."
+    },
+    {
+      "key": "fusion.forceUpgrade.recommended.confirmAction",
+      "value": "Update now"
+    },
+    {
+      "key": "fusion.forceUpgrade.recommended.cancelAction",
+      "value": "Later"
+    },
+    {
+      "key": "cert.error.title",
+      "value": "Working Offline"
+    },
+    {
+      "key": "cert.error.description",
+      "value": "Your connection is insecure. Try connecting using a different network."
+    },
+    {
+      "key": "ancillaries.manageAncillaries.options.seat.description",
+      "value": "Choose extra legroom, aisle, window etc."
+    },
+    {
+      "key": "ancillaries.manageAncillaries.options.seat.title",
+      "value": "Choose your Seat"
+    },
+    {
+      "key": "ancillaries.manageAncillaries.skip",
+      "value": "Skip"
+    },
+    {
+      "key": "ancillaries.manageAncillaries.title",
+      "value": "Extras"
+    },
+    {
+      "key": "ancillaries.manageAncillaries.selection.freeseats",
+      "value": "%@ free %@ selected"
+    },
+    {
+      "key": "ancillaries.manageAncillaries.selection.premiumseats",
+      "value": "%@ premium %@ selected"
+    },
+    {
+      "key": "ancillaries.manageAncillaries.selection.mixseats",
+      "value": "%@ premium %@ and %@ free %@ selected"
+    },
+    {
+      "key": "ancillaries.manageAncillaries.continue",
+      "value": "CONTINUE"
+    },
+    {
+      "key": "ancillaries.manageAncillaries.payment",
+      "value": "GO TO PAYMENT"
+    },
+    {
+      "key": "ancillaries.plural.seats.one",
+      "value": "seat"
+    },
+    {
+      "key": "ancillaries.plural.seats.two",
+      "value": "seats"
+    },
+    {
+      "key": "ancillaries.plural.seats.few",
+      "value": "seats"
+    },
+    {
+      "key": "ancillaries.plural.seats.many",
+      "value": "seats"
+    },
+    {
+      "key": "ancillaries.plural.seats.other",
+      "value": "seats"
+    },
+    {
+      "key": "ancillaries.plural.seats.zero",
+      "value": "seats"
+    },
+    {
+      "key": "ancillaries.manageAncillaries.runningTotal.title",
+      "value": "Total Cost"
+    },
+    {
+      "key": "ancillaries.manageAncillaries.options.bag.title",
+      "value": "Add Bags"
+    },
+    {
+      "key": "ancillaries.manageAncillaries.options.bag.description",
+      "value": "Bring extra luggage with you"
+    },
+    {
+      "key": "ancillaries.manageAncillaries.options.bag.description.edited",
+      "value": "Extra luggage added"
+    },
+    {
+      "key": "ancillaries.baggageSummary.screenHeader.instructionalMessage",
+      "value": "Here's the bags currently included in your trip"
+    },
+    {
+      "key": "ancillaries.baggageSummary.screenHeader.noBagsMessage",
+      "value": "There are no bags currently included in your trip"
+    },
+    {
+      "key": "ancillaries.baggageSummary.title",
+      "value": "Bags"
+    },
+    {
+      "key": "ancillaries.baggageSummary.bags.checkedIn.weight",
+      "value": "23kg"
+    },
+    {
+      "key": "ancillaries.baggageSummary.bags.checkedIn.description",
+      "value": "Checked-in bag"
+    },
+    {
+      "key": "ancillaries.baggageSummary.bags.carryOn.weight",
+      "value": "10kg"
+    },
+    {
+      "key": "ancillaries.baggageSummary.bags.carryOn.description",
+      "value": "Carry-on bag"
+    },
+    {
+      "key": "ancillaries.baggageSummary.bags.freeAllocation.weight",
+      "value": "23kg"
+    },
+    {
+      "key": "ancillaries.baggageSummary.bags.freeAllocation.description",
+      "value": "Free allocation bag"
+    },
+    {
+      "key": "ancillaries.baggageSummary.bags.title",
+      "value": "%@ x %@"
+    },
+    {
+      "key": "ancillaries.baggageSummary.remove",
+      "value": "REMOVE"
+    },
+    {
+      "key": "ancillaries.baggageSummary.add",
+      "value": "ADD BAGS"
+    },
+    {
+      "key": "ancillaries.baggageSummary.edit",
+      "value": "EDIT BAGS"
+    },
+    {
+      "key": "ancillaries.baggageSummary.weight",
+      "value": "ADD WEIGHT"
+    },
+    {
+      "key": "ancillaries.baggageSummary.empty",
+      "value": "No bags included"
+    },
+    {
+      "key": "ancillaries.manageBaggage.close",
+      "value": "Close"
+    },
+    {
+      "key": "ancillaries.manageBaggage.included",
+      "value": "Already included:"
+    },
+    {
+      "key": "ancillaries.manageBaggage.extraBaggage",
+      "value": "Extra Bags"
+    },
+    {
+      "key": "ancillaries.manageBaggage.done",
+      "value": "DONE"
+    },
+    {
+      "key": "ancillaries.manageBaggage.title",
+      "value": "Add Baggage"
+    },
+    {
+      "key": "ancillaries.manageBaggage.summary",
+      "value": "%@ Bag"
+    },
+    {
+      "key": "ancillaries.manageBaggage.noCost",
+      "value": "--"
+    },
+    {
+      "key": "ancillaries.manageBaggage.error.unableToAddBags",
+      "value": "Adding bags failed, please try again."
+    },
+    {
+      "key": "ancillaries.baggageSummary.error.unableToRemoveBags",
+      "value": "Baggage removal failed, please try again."
+    },
+    {
+      "key": "ancillaries.baggageSummary.success.updatedBagAllowance",
+      "value": "You have edited your baggage allowance successfully"
+    },
+    {
+      "key": "creditCardPayment.form.title",
+      "value": "Payment"
+    },
+    {
+      "key": "creditCardPayment.form.details.title",
+      "value": "Card details"
+    },
+    {
+      "key": "creditCardPayment.form.card.details.cardholdername",
+      "value": "Cardholder Name"
+    },
+    {
+      "key": "creditCardPayment.form.card.details.number",
+      "value": "Card Number"
+    },
+    {
+      "key": "creditCardPayment.form.card.details.expirydate",
+      "value": "Expiry Date (MM/YY)"
+    },
+    {
+      "key": "creditCardPayment.form.card.details.cvv",
+      "value": "CVV"
+    },
+    {
+      "key": "creditCardPayment.form.card.details.number.error",
+      "value": "Invalid card number"
+    },
+    {
+      "key": "creditCardPayment.form.card.details.expirydate.error",
+      "value": "Invalid expiry date"
+    },
+    {
+      "key": "creditCardPayment.form.card.details.cvv.error",
+      "value": "Invalid cvv number"
+    },
+    {
+      "key": "creditCardPayment.form.payWithAmount",
+      "value": "PAY %@"
+    },
+    {
+      "key": "creditCardPayment.form.pay",
+      "value": "PAY"
+    },
+    {
+      "key": "creditCardPayment.form.close",
+      "value": "Close"
+    },
+    {
+      "key": "creditCardPayment.paymentResult.success.title",
+      "value": "Payment Successful"
+    },
+    {
+      "key": "creditCardPayment.paymentResult.success.message",
+      "value": "You can now continue to check-in"
+    },
+    {
+      "key": "creditCardPayment.paymentResult.success.action",
+      "value": "Ok"
+    },
+    {
+      "key": "creditCardPayment.paymentResult.failure.title",
+      "value": "Payment Failed"
+    },
+    {
+      "key": "creditCardPayment.paymentResult.failure.message",
+      "value": "Your credit card has not been charged. Please review your credit card details to ensure they are correct and try again."
+    },
+    {
+      "key": "creditCardPayment.paymentResult.failure.action",
+      "value": "Ok"
+    },
+    {
+      "key": "creditCardPayment.paymentRequest.loading.message",
+      "value": "Payment processing..."
+    },
+    {
+      "key": "creditCardPayment.termsAndConditions.tcSubstring",
+      "value": "terms and conditions"
+    },
+    {
+      "key": "creditCardPayment.termsAndConditions.infoMessage",
+      "value": "By tapping the Pay Now button you are accepting the %@ and agreeing to debit your card for the amount indicated."
+    },
+    {
+      "key": "common.error.offline.message",
+      "value": "Sorry, looks like you are not connected to the Internet. Please try again later"
+    },
+    {
+      "key": "common.error.serverIssue.message",
+      "value": "Sorry, it looks like we have a problem with our servers, please try again later."
+    },
+    {
+      "key": "common.error.segmentNotFound",
+      "value": "Sorry, the selected segment is not available anymore"
+    },
+    {
+      "key": "common.error.tripNotFound",
+      "value": "Sorry, the selected trip is not available anymore"
+    },
+    {
+      "key": "common.alert.title.error",
+      "value": "Oops ..."
+    },
+    {
+      "key": "common.alert.ok",
+      "value": "OK"
+    },
+    {
+      "key": "common.alert.title",
+      "value": "Concierge"
+    },
+    {
+      "key": "common.item.value.empty",
+      "value": "--"
+    },
+    {
+      "key": "common.call",
+      "value": "Call"
+    },
+    {
+      "key": "common.retry",
+      "value": "Retry"
+    },
+    {
+      "key": "mainTripsScreen.title",
+      "value": "My Trips"
+    },
+    {
+      "key": "tripList.title",
+      "value": "My Trips"
+    },
+    {
+      "key": "tripList.selector.upcomingTrips",
+      "value": "Upcoming Trips"
+    },
+    {
+      "key": "tripList.selector.pastTrips",
+      "value": "Past Trips"
+    },
+    {
+      "key": "tripList.noPastTrips.message",
+      "value": "You have no past trips."
+    },
+    {
+      "key": "tripList.noUpcomingTrips.message",
+      "value": "You have no upcoming trips."
+    },
+    {
+      "key": "tripList.reminder.dateFormat",
+      "value": "EEE dd MMM"
+    },
+    {
+      "key": "tripList.reminder.dateFormat.withYear",
+      "value": "EEE dd MMM, yyyy"
+    },
+    {
+      "key": "tripList.reminder.dateFormat.separator",
+      "value": "|"
+    },
+    {
+      "key": "tripList.tripTitle.fallback",
+      "value": "Your Trip"
+    },
+    {
+      "key": "tripList.bookingStatus.cancelled",
+      "value": "CANCELLED"
+    },
+    {
+      "key": "tripList.flightCheckInStatus.open",
+      "value": "Check-in is open"
+    },
+    {
+      "key": "tripList.addTripActionTitle",
+      "value": "Add Trip"
+    },
+    {
+      "key": "tripList.addTripNavBarActionTitle",
+      "value": "Add Trip"
+    },
+    {
+      "key": "tripList.addTrip.retrieveTrip",
+      "value": "Retrieve Trip"
+    },
+    {
+      "key": "tripList.addTrip.retrieveTripDescription",
+      "value": "Using your booking reference"
+    },
+    {
+      "key": "tripList.addTrip.bookTrip",
+      "value": "Book Trip"
+    },
+    {
+      "key": "tripList.addTrip.bookTripDescription",
+      "value": "Make a booking with your travel agent"
+    },
+    {
+      "key": "tripList.addTrip.importTrip",
+      "value": "Import Trip"
+    },
+    {
+      "key": "tripList.addTrip.importTripDescription",
+      "value": "Add your trip by forwarding your details"
+    },
+    {
+      "key": "tripList.addTrip.reviewNotificationSettings.button",
+      "value": "Review App Settings"
+    },
+    {
+      "key": "tripList.addTrip.reviewNotificationSettings.message",
+      "value": "Application unable to receive notifications due to restictions.\nPlease review application settings."
+    },
+    {
+      "key": "tripList.addTrip.offerAllowNotifications.message",
+      "value": "We'd like to notify you when your trip arrives but you can also pull to refresh."
+    },
+    {
+      "key": "tripList.addTrip.offerAllowNotifications.proceedButton",
+      "value": "Setup notifications"
+    },
+    {
+      "key": "tripList.addTrip.success",
+      "value": "The trip is being retrieved soon."
+    },
+    {
+      "key": "tripList.importTripRefNumberInfo.message",
+      "value": ""
+    },
+    {
+      "key": "tripList.importTripAddButton.title",
+      "value": "ADD TRIP"
+    },
+    {
+      "key": "tripHome.agencyBookingRef.title",
+      "value": "Booking Reference"
+    },
+    {
+      "key": "tripHome.startsToday",
+      "value": "Your trip starts today"
+    },
+    {
+      "key": "tripHome.startsTomorrow",
+      "value": "Your trip starts tomorrow"
+    },
+    {
+      "key": "tripHome.startsThisWeek",
+      "value": "Your trip starts this week"
+    },
+    {
+      "key": "tripHome.startsNextWeek",
+      "value": "Your trip starts next week"
+    },
+    {
+      "key": "tripHome.startsInXWeeks",
+      "value": "Your trip starts in %@ weeks"
+    },
+    {
+      "key": "tripHome.startsNextMonth",
+      "value": "Your trip starts next month"
+    },
+    {
+      "key": "tripHome.startsInXMonths",
+      "value": "Your trip starts in %@ months"
+    },
+    {
+      "key": "tripHome.reminder.dateFormat",
+      "value": "EEE dd MMM"
+    },
+    {
+      "key": "tripHome.reminder.dateFormat.withYear",
+      "value": "EEE dd MMM, yyyy"
+    },
+    {
+      "key": "tripHome.reminder.dateFormat.separator",
+      "value": "|"
+    },
+    {
+      "key": "tripHome.checkin.open.label",
+      "value": "Check-in is Open"
+    },
+    {
+      "key": "tripHome.checkin.button.open",
+      "value": "Check-in is Open"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight",
+      "value": "Flight to %@"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.title.closed",
+      "value": "Online Check-in is Closed"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.title.open",
+      "value": "Check-in is Open"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.title.completed",
+      "value": "Check-in is completed"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.title.ineligible.single.passenger",
+      "value": "You are not eligible to check in online"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.title.ineligible.one",
+      "value": "%@ is not eligible to check in online"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.title.ineligible.many",
+      "value": "%lu of %lu Passengers are ineligible"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.title.ineligible.all",
+      "value": "No one is eligible to check in online"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.subtitle.ineligible.single.passenger",
+      "value": "Go to check in desk"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.subtitle.ineligible.one",
+      "value": "If you're not eligible, go to check in desk"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.subtitle.ineligible.many",
+      "value": "If you're not eligible, go to check in desk"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.subtitle.ineligible.all",
+      "value": "Please go to check in desk"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.subtitle.all",
+      "value": "All %lu passengers have checked in"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.subtitle.one",
+      "value": "%lu of %lu passengers have checked in"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.subtitle.few",
+      "value": "%lu of %lu passengers have checked in"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.subtitle.many",
+      "value": "%lu of %lu passengers have checked in"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.subtitle.two",
+      "value": "%lu of %lu passengers have checked in"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.subtitle.other",
+      "value": "%lu of %lu passengers have checked in"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.subtitle.zero",
+      "value": "No passengers have checked in"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.subtitle.zero.single.passenger",
+      "value": "You haven't checked-in yet"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.subtitle.single.passenger",
+      "value": "You have checked-in"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.subtitle.both.passengers",
+      "value": "Both passengers have checked-in"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.subtitle.go.to.desk",
+      "value": "Go to check in desk"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.checkin.button",
+      "value": "CHECK-IN"
+    },
+    {
+      "key": "tripHome.segmentTitle.titleFormat.flight.fallback",
+      "value": "Your Flight"
+    },
+    {
+      "key": "tripHome.segmentTitle.cancelled.flight",
+      "value": "Flight has been cancelled"
+    },
+    {
+      "key": "tripHome.segmentMessage.cancelled.segment",
+      "value": "Booking details are no longer available for display."
+    },
+    {
+      "key": "tripHome.legLayover.layoverFormat",
+      "value": "Layover time: %@"
+    },
+    {
+      "key": "tripHome.legLayover.layover",
+      "value": "Layover time:"
+    },
+    {
+      "key": "tripHome.tripOptions.messageFormat",
+      "value": "Trip reference: %@"
+    },
+    {
+      "key": "tripHome.tripOptions.shareByEmail",
+      "value": "Share via Email"
+    },
+    {
+      "key": "tripHome.tripOptions.assistMe",
+      "value": "Assist me"
+    },
+    {
+      "key": "tripHome.tripOptions.renameTrip",
+      "value": "Rename my Trip"
+    },
+    {
+      "key": "tripHome.tripTitle.fallback",
+      "value": "Your Trip"
+    },
+    {
+      "key": "tripHome.legOptions.moreDetails",
+      "value": "MORE DETAILS"
+    },
+    {
+      "key": "tripHome.legOptions.boardingPass.one",
+      "value": "BOARDING PASS"
+    },
+    {
+      "key": "tripHome.legOptions.boardingPass.many",
+      "value": "BOARDING PASSES"
+    },
+    {
+      "key": "tripHome.legConnection.connectionTimeFormat",
+      "value": "Connection Time: %@"
+    },
+    {
+      "key": "tripHome.trip.cancelled.title",
+      "value": "Trip has been cancelled"
+    },
+    {
+      "key": "tripHome.trip.cancelled.message",
+      "value": "Your trip is no longer available"
+    },
+    {
+      "key": "tripLegDetail.flight.navigation.title",
+      "value": "Flight to %@"
+    },
+    {
+      "key": "tripLegDetail.flight.navigation.title.fallback",
+      "value": "Your Flight"
+    },
+    {
+      "key": "tripLegDetail.flight.originBanner.locationLineSeparator",
+      "value": ">"
+    },
+    {
+      "key": "tripLegDetail.flight.originBanner.citiesLineSeparator",
+      "value": ">"
+    },
+    {
+      "key": "tripLegDetail.flight.legLinking.headline.next",
+      "value": "Layover in %@"
+    },
+    {
+      "key": "tripLegDetail.flight.legLinking.headline.next.fallback",
+      "value": "Layover"
+    },
+    {
+      "key": "tripLegDetail.flight.legLinking.nextLegCTA",
+      "value": "Next flight"
+    },
+    {
+      "key": "tripLegDetail.flight.legLinking.prevLegCTA",
+      "value": "Previous flight"
+    },
+    {
+      "key": "tripLegDetail.flight.notes",
+      "value": "Notes"
+    },
+    {
+      "key": "tripLegDetail.flight.passenger.passenger",
+      "value": "Passenger"
+    },
+    {
+      "key": "tripLegDetail.flight.passenger.class",
+      "value": "Class"
+    },
+    {
+      "key": "tripLegDetail.flight.passenger.seat",
+      "value": "Seat"
+    },
+    {
+      "key": "tripLegDetail.flight.passenger.frequentFlyer",
+      "value": "Frequent Flyer"
+    },
+    {
+      "key": "tripLegDetail.flight.passenger.meal",
+      "value": "Meal"
+    },
+    {
+      "key": "tripLegDetail.flight.passenger.duration",
+      "value": "Duration"
+    },
+    {
+      "key": "tripLegDetail.flight.passenger.marketedBy",
+      "value": "Marketed by"
+    },
+    {
+      "key": "tripLegDetail.flight.passenger.operatedBy",
+      "value": "Operated by"
+    },
+    {
+      "key": "tripLegDetail.flight.passenger.flightNumber",
+      "value": "Flight Number"
+    },
+    {
+      "key": "tripLegDetail.flight.passenger.checkinAction",
+      "value": "Check-in"
+    },
+    {
+      "key": "tripLegDetail.flight.passenger.bookingRef",
+      "value": "Booking Ref"
+    },
+    {
+      "key": "tripLegDetail.flight.passenger.tripBookingRef",
+      "value": "Booking Reference"
+    },
+    {
+      "key": "tripLegDetail.flight.passenger.baggageClaimCarousel",
+      "value": "Baggage Belt"
+    },
+    {
+      "key": "tripLegDetail.openMapOption.message",
+      "value": "Please select the application you want to use"
+    },
+    {
+      "key": "tripLegDetail.openMapOption.AppleMaps",
+      "value": "Apple Maps"
+    },
+    {
+      "key": "tripLegDetail.openMapOption.GoogleMaps",
+      "value": "Google Maps"
+    },
+    {
+      "key": "tripLegDetail.copiedToClipboard",
+      "value": "Copied to clipboard"
+    },
+    {
+      "key": "tripLegDetail.meeting.navigation.title",
+      "value": "Meeting"
+    },
+    {
+      "key": "tripLegDetail.meeting.bookingRef",
+      "value": "Booking Ref"
+    },
+    {
+      "key": "tripLegDetail.meeting.address",
+      "value": "Address"
+    },
+    {
+      "key": "tripLegDetail.meeting.phone",
+      "value": "Phone"
+    },
+    {
+      "key": "tripLegDetail.meeting.guest",
+      "value": "Guest"
+    },
+    {
+      "key": "tripLegDetail.trip.cancelled.message",
+      "value": "Your trip from %@ to %@ no longer available for display"
+    },
+    {
+      "key": "bannerView.noConnection.lastRefresh",
+      "value": "last updated %@ ago"
+    },
+    {
+      "key": "bannerView.noConnection.lastRefresh.android",
+      "value": "Last updated %@"
+    },
+    {
+      "key": "bannerView.noConnection.lastRefresh.less.than.minute.android",
+      "value": "Just Updated"
+    },
+    {
+      "key": "bannerView.noConnection.notConnectedOrServerUnreachable",
+      "value": "Sorry, your phone is not connected to the internet, or the server cannot be reached."
+    },
+    {
+      "key": "pullToRefresh.messageFormat",
+      "value": "Last update: %@"
+    },
+    {
+      "key": "pullToRefresh.timeFormat",
+      "value": "MMMdjmm"
+    },
+    {
+      "key": "legStatus.onTime",
+      "value": "ON TIME"
+    },
+    {
+      "key": "legStatus.delayed",
+      "value": "DELAYED"
+    },
+    {
+      "key": "legStatus.cancelled",
+      "value": "CANCELLED"
+    },
+    {
+      "key": "legStatus.diverted",
+      "value": "DIVERTED"
+    },
+    {
+      "key": "legStatus.confirmed",
+      "value": "CONFIRMED"
+    },
+    {
+      "key": "legStatus.arrived",
+      "value": "ARRIVED"
+    },
+    {
+      "key": "legStatus.completed",
+      "value": "Completed"
+    },
+    {
+      "key": "legStatus.removed",
+      "value": "Removed"
+    },
+    {
+      "key": "legStatus.minicard.onTime",
+      "value": "On-time"
+    },
+    {
+      "key": "legStatus.minicard.delayed",
+      "value": "Delayed"
+    },
+    {
+      "key": "legStatus.minicard.cancelled",
+      "value": "Cancelled"
+    },
+    {
+      "key": "legStatus.minicard.diverted",
+      "value": "Diverted from %@"
+    },
+    {
+      "key": "legStatus.minicard.confirmed",
+      "value": "Confirmed"
+    },
+    {
+      "key": "legStatus.minicard.arrived",
+      "value": "Arrived"
+    },
+    {
+      "key": "legStatus.minicard.completed",
+      "value": "Completed"
+    },
+    {
+      "key": "legStatus.minicard.removed",
+      "value": "Removed"
+    },
+    {
+      "key": "legStatus.flight.subtitle2Format",
+      "value": "Operated by %@"
+    },
+    {
+      "key": "legInfo.common.unknown",
+      "value": "Unknown"
+    },
+    {
+      "key": "legInfo.common.minicard.dateFormat",
+      "value": "d MMM"
+    },
+    {
+      "key": "legInfo.common.minicard.layoverFormat",
+      "value": "Layover: %@"
+    },
+    {
+      "key": "legInfo.flight.departureLocationFormat",
+      "value": "%@ • %@"
+    },
+    {
+      "key": "legInfo.flight.arrivalLocationFormat",
+      "value": "%@ • %@"
+    },
+    {
+      "key": "legInfo.flight.minicard.titleFormat",
+      "value": "%@  →  %@"
+    },
+    {
+      "key": "legInfo.flight.minicard.titleFallback",
+      "value": "Your Flight"
+    },
+    {
+      "key": "legInfo.flight.minicard.titleFallbackWithDestination",
+      "value": "Flight to %@"
+    },
+    {
+      "key": "legInfo.flight.minicard.titleDashFormat",
+      "value": "%@ - %@"
+    },
+    {
+      "key": "legInfo.flight.minicard.flightNumberFormat",
+      "value": "Flight %@"
+    },
+    {
+      "key": "legInfo.flight.minicard.flightTimePeriodFormat",
+      "value": "Departs: %@ - Arrives: %@"
+    },
+    {
+      "key": "legInfo.flight.minicard.flightArrivalTimeFormat",
+      "value": "Arrives: %@"
+    },
+    {
+      "key": "legInfo.flight.minicard.flightDepartureTimeFormat",
+      "value": "Departs: %@"
+    },
+    {
+      "key": "legInfo.flight.departureDay",
+      "value": "Depart"
+    },
+    {
+      "key": "legInfo.flight.arrivalDay",
+      "value": "Arrive"
+    },
+    {
+      "key": "legInfo.flight.departureDateFormat",
+      "value": "dMMMM"
+    },
+    {
+      "key": "legInfo.flight.departureTimeFormat",
+      "value": "jmm"
+    },
+    {
+      "key": "legInfo.flight.arrivalDateFormat",
+      "value": "dMMMM"
+    },
+    {
+      "key": "legInfo.flight.arrivalTimeFormat",
+      "value": "jmm"
+    },
+    {
+      "key": "legInfo.flight.scheduledTimeFormat",
+      "value": "Scheduled %@"
+    },
+    {
+      "key": "legInfo.flight.departureTerminal",
+      "value": "Terminal"
+    },
+    {
+      "key": "legInfo.flight.arrivalTerminal",
+      "value": "Terminal"
+    },
+    {
+      "key": "legInfo.flight.departureGate",
+      "value": "Gate"
+    },
+    {
+      "key": "legInfo.flight.passengerSeat",
+      "value": "Seat"
+    },
+    {
+      "key": "cit.deepLink.loading",
+      "value": "Loading..."
+    },
+    {
+      "key": "cit.deepLink.loading.error",
+      "value": "However an error occurred while updating trips, please try again later."
+    },
+    {
+      "key": "cit.deepLink.follow.now",
+      "value": "Show Me"
+    },
+    {
+      "key": "cit.deepLink.follow.later",
+      "value": "Later"
+    },
+    {
+      "key": "cit.tabNavigation.tripList",
+      "value": "My Trips"
+    },
+    {
+      "key": "menu.menuItem.settings",
+      "value": "Settings"
+    },
+    {
+      "key": "menu.menuItem.upcomingTrips",
+      "value": "My Trips"
+    },
+    {
+      "key": "menu.menuItem.pastTrips",
+      "value": "Past Trips"
+    },
+    {
+      "key": "plural.days.one",
+      "value": "%@ day"
+    },
+    {
+      "key": "plural.days.two",
+      "value": "%@ days"
+    },
+    {
+      "key": "plural.days.few",
+      "value": "%@ days"
+    },
+    {
+      "key": "plural.days.many",
+      "value": "%@ days"
+    },
+    {
+      "key": "plural.days.other",
+      "value": "%@ days"
+    },
+    {
+      "key": "plural.days.zero",
+      "value": "%@ day"
+    },
+    {
+      "key": "plural.hours.short.one",
+      "value": "%@h"
+    },
+    {
+      "key": "plural.hours.short.two",
+      "value": "%@hrs"
+    },
+    {
+      "key": "plural.hours.short.few",
+      "value": "%@hrs"
+    },
+    {
+      "key": "plural.hours.short.other",
+      "value": "%@hrs"
+    },
+    {
+      "key": "plural.hours.short.many",
+      "value": "%@hrs"
+    },
+    {
+      "key": "plural.hours.short.zero",
+      "value": "%@hrs"
+    },
+    {
+      "key": "plural.mins.one",
+      "value": "%@min"
+    },
+    {
+      "key": "plural.mins.two",
+      "value": "%@mins"
+    },
+    {
+      "key": "plural.mins.few",
+      "value": "%@mins"
+    },
+    {
+      "key": "plural.mins.many",
+      "value": "%@mins"
+    },
+    {
+      "key": "plural.mins.other",
+      "value": "%@mins"
+    },
+    {
+      "key": "plural.mins.zero",
+      "value": "%@mins"
+    },
+    {
+      "key": "plural.night.one",
+      "value": "%@ night"
+    },
+    {
+      "key": "plural.night.two",
+      "value": "%@ nights"
+    },
+    {
+      "key": "plural.night.few",
+      "value": "%@ nights"
+    },
+    {
+      "key": "plural.night.other",
+      "value": "%@ nights"
+    },
+    {
+      "key": "plural.night.many",
+      "value": "%@ nights"
+    },
+    {
+      "key": "plural.night.zero",
+      "value": "%@ nights"
+    },
+    {
+      "key": "plural.days.short.one",
+      "value": "%@day"
+    },
+    {
+      "key": "plural.days.short.two",
+      "value": "%@days"
+    },
+    {
+      "key": "plural.days.short.few",
+      "value": "%@days"
+    },
+    {
+      "key": "plural.days.short.other",
+      "value": "%@days"
+    },
+    {
+      "key": "plural.days.short.many",
+      "value": "%@days"
+    },
+    {
+      "key": "plural.days.short.zero",
+      "value": "%@days"
+    },
+    {
+      "key": "tripView.itineraryView.flightSegment.titleFormat",
+      "value": "Flight to %@"
+    },
+    {
+      "key": "tripView.itineraryView.flightSegment.leftTitle",
+      "value": "Depart"
+    },
+    {
+      "key": "tripView.itineraryView.flightSegment.rightTitle",
+      "value": "Arrive"
+    },
+    {
+      "key": "tripView.itineraryView.meetingSegment.leftTitle",
+      "value": "From"
+    },
+    {
+      "key": "tripView.itineraryView.meetingSegment.rightTitle",
+      "value": "Until"
+    },
+    {
+      "key": "tripView.itineraryView.meetingSegment.subLabel1StartDateFormat",
+      "value": "EEEE"
+    },
+    {
+      "key": "tripView.itineraryView.meetingSegment.subLabel1EndDateFormat",
+      "value": "EEEE"
+    },
+    {
+      "key": "tripView.itineraryView.navbar.startDateFormat",
+      "value": "EEEE, d MMM"
+    },
+    {
+      "key": "tripView.itineraryView.navbar.endDateFormat",
+      "value": "EEEE, d MMM"
+    },
+    {
+      "key": "itineraryView.tripCover.reminder.tripEnded",
+      "value": "Your trip has ended"
+    },
+    {
+      "key": "itineraryView.tripCover.reminder.today",
+      "value": "Your trip is today"
+    },
+    {
+      "key": "itineraryView.tripCover.reminder.tomorrow",
+      "value": "Your trip is tomorrow"
+    },
+    {
+      "key": "itineraryView.tripCover.reminder.inNumberOfDays",
+      "value": "Your trip starts in %lu days"
+    },
+    {
+      "key": "itineraryView.tripCover.reminder.moreThanMonth",
+      "value": "Your trip starts in more then a month"
+    },
+    {
+      "key": "itineraryView.tripCover.reminder.dateFormatWithYear",
+      "value": "EEE, dd MMM yyyy"
+    },
+    {
+      "key": "itineraryView.tripCover.reminder.dateFormat",
+      "value": "EEE, dd MMM"
+    },
+    {
+      "key": "itineraryView.pullDownToRefresh.idle",
+      "value": "Pull down to Sync"
+    },
+    {
+      "key": "itineraryView.pullDownToRefresh.refreshing",
+      "value": "Synching..."
+    },
+    {
+      "key": "itineraryView.pullDownToRefresh.success",
+      "value": "Success!"
+    },
+    {
+      "key": "itineraryView.pullDownToRefresh.serverIssue",
+      "value": "Oops! Looks like there's an issue with our servers."
+    },
+    {
+      "key": "itineraryView.pullDownToRefresh.offline",
+      "value": "Oops! Can't reach the server."
+    },
+    {
+      "key": "tripView.noTrips.noTripMessage",
+      "value": "You have no upcoming trips."
+    },
+    {
+      "key": "segmentView.segmentDetail.segmentSummary.depart",
+      "value": "Depart"
+    },
+    {
+      "key": "segmentView.segmentDetail.segmentSummary.arrive",
+      "value": "Arrive"
+    },
+    {
+      "key": "segmentView.navigationTitle.flightSegment.titleFormat",
+      "value": "Flight to %@"
+    },
+    {
+      "key": "segmentView.navigationTitle.railSegment.titleFormat",
+      "value": "Train to %@"
+    },
+    {
+      "key": "segmentView.navbar.dateFormat",
+      "value": "EEEE, d MMM"
+    },
+    {
+      "key": "emailTripShare.actionTitle",
+      "value": "Share trip by email"
+    },
+    {
+      "key": "emailTripShare.title",
+      "value": "Share Trip"
+    },
+    {
+      "key": "emailTripShare.shareButton.title",
+      "value": "Send"
+    },
+    {
+      "key": "emailTripShare.to",
+      "value": "To"
+    },
+    {
+      "key": "emailTripShare.infoMessage",
+      "value": "Recipients will receive an email including details of your Itinerary for this trip, except passenger(s) and guest(s) information."
+    },
+    {
+      "key": "emailTripShare.emailInput.placeholder",
+      "value": "Type recipients email"
+    },
+    {
+      "key": "emailTripShare.emailInput.error",
+      "value": "Looks like an invalid email. Please try again."
+    },
+    {
+      "key": "emailTripShare.successBanner",
+      "value": "Email sent successfully"
+    },
+    {
+      "key": "emailTripShare.sharingTrip",
+      "value": "Sharing Trip"
+    },
+    {
+      "key": "emailTripShare.sharingTrip.header.text",
+      "value": "A trip itinerary has been shared with you"
+    },
+    {
+      "key": "cit.importPnr.title",
+      "value": "Add Trip"
+    },
+    {
+      "key": "cit.importPnr.close",
+      "value": "Close"
+    },
+    {
+      "key": "cit.importPnr.lastName.placeholder",
+      "value": "Last Name"
+    },
+    {
+      "key": "cit.importPnr.lastName.errorMessage",
+      "value": "Invalid Last Name"
+    },
+    {
+      "key": "cit.importPnr.pnr.placeholder",
+      "value": "Booking Reference"
+    },
+    {
+      "key": "cit.importPnr.pnr.errorMessage",
+      "value": "Invalid Booking Reference"
+    },
+    {
+      "key": "cit.importPnr.submit",
+      "value": "Retrieve Trip"
+    },
+    {
+      "key": "cit.importPnr.error.tripNotFound",
+      "value": "Reservation not found. Please check your details."
+    },
+    {
+      "key": "cit.importPnr.error.otherError",
+      "value": "Reservation not found. Please try again later."
+    },
+    {
+      "key": "cit.importPnr.loading",
+      "value": "Retrieving Trip"
+    },
+    {
+      "key": "cit.importPnr.error.tripNotFound.title",
+      "value": "Trip Not Found"
+    },
+    {
+      "key": "cit.importPnr.error.otherError.title",
+      "value": "Cannot Import Trip"
+    },
+    {
+      "key": "gdpr.consentScreen.title",
+      "value": "Important Information"
+    },
+    {
+      "key": "gdpr.consentScreen.rejectedWarning",
+      "value": "You have rejected %@ Policy Documents."
+    },
+    {
+      "key": "gdpr.consentScreen.acceptButtonTitle",
+      "value": "ACCEPT"
+    },
+    {
+      "key": "gdpr.consentScreen.rejectButtonTitle",
+      "value": "REJECT"
+    },
+    {
+      "key": "gdpr.consentScreen.infoText",
+      "value": "We take your privacy and security seriously. Our policy documents inform you of your rights and obligations when using %@ services. \n\nIn order to continue, you must agree to %@ %@ and %@. "
+    },
+    {
+      "key": "gdpr.consentScreen.privacyPolicyLinkText",
+      "value": "Privacy Policy"
+    },
+    {
+      "key": "gdpr.consentScreen.termsOfUseLinkText",
+      "value": "Terms of Use"
+    },
+    {
+      "key": "gdpr.consentScreen.rejectAlertTitle",
+      "value": "Are you sure?"
+    },
+    {
+      "key": "gdpr.consentScreen.rejectAlertMessage",
+      "value": "By selecting Proceed, I understand that I will no longer be able to use the App until I agree to the Privacy Policy and Terms of Use."
+    },
+    {
+      "key": "gdpr.consentScreen.rejectAlertCancel",
+      "value": "Cancel"
+    },
+    {
+      "key": "gdpr.consentScreen.rejectAlertProceed",
+      "value": "Proceed"
+    },
+    {
+      "key": "dynamicMenu.copyToClipboard.text",
+      "value": "Copied"
+    },
+    {
+      "key": "nationality.country.AF",
+      "value": "Afghanistan"
+    },
+    {
+      "key": "nationality.country.AL",
+      "value": "Albania"
+    },
+    {
+      "key": "nationality.country.DZ",
+      "value": "Algeria"
+    },
+    {
+      "key": "nationality.country.AS",
+      "value": "American Samoa"
+    },
+    {
+      "key": "nationality.country.AO",
+      "value": "Angola"
+    },
+    {
+      "key": "nationality.country.AI",
+      "value": "Anguilla"
+    },
+    {
+      "key": "nationality.country.AG",
+      "value": "Antigua And Barbuda"
+    },
+    {
+      "key": "nationality.country.AR",
+      "value": "Argentina"
+    },
+    {
+      "key": "nationality.country.AM",
+      "value": "Armenia"
+    },
+    {
+      "key": "nationality.country.AW",
+      "value": "Aruba"
+    },
+    {
+      "key": "nationality.country.AU",
+      "value": "Australia"
+    },
+    {
+      "key": "nationality.country.AT",
+      "value": "Austria"
+    },
+    {
+      "key": "nationality.country.AZ",
+      "value": "Azerbaijan"
+    },
+    {
+      "key": "nationality.country.BS",
+      "value": "Bahamas"
+    },
+    {
+      "key": "nationality.country.BH",
+      "value": "Bahrain"
+    },
+    {
+      "key": "nationality.country.BD",
+      "value": "Bangladesh"
+    },
+    {
+      "key": "nationality.country.BB",
+      "value": "Barbados"
+    },
+    {
+      "key": "nationality.country.BY",
+      "value": "Belarus"
+    },
+    {
+      "key": "nationality.country.BE",
+      "value": "Belgium"
+    },
+    {
+      "key": "nationality.country.BZ",
+      "value": "Belize"
+    },
+    {
+      "key": "nationality.country.BJ",
+      "value": "Benin"
+    },
+    {
+      "key": "nationality.country.BM",
+      "value": "Bermuda"
+    },
+    {
+      "key": "nationality.country.BT",
+      "value": "Bhutan"
+    },
+    {
+      "key": "nationality.country.BO",
+      "value": "Bolivia"
+    },
+    {
+      "key": "nationality.country.NL",
+      "value": "Netherlands"
+    },
+    {
+      "key": "nationality.country.BA",
+      "value": "Bosnia and Herzegovina"
+    },
+    {
+      "key": "nationality.country.BW",
+      "value": "Botswana"
+    },
+    {
+      "key": "nationality.country.BV",
+      "value": "Bouvet Island"
+    },
+    {
+      "key": "nationality.country.BR",
+      "value": "Brazil"
+    },
+    {
+      "key": "nationality.country.BN",
+      "value": "Brunei Darussalam"
+    },
+    {
+      "key": "nationality.country.BG",
+      "value": "Bulgaria"
+    },
+    {
+      "key": "nationality.country.BF",
+      "value": "Burkina Faso"
+    },
+    {
+      "key": "nationality.country.BI",
+      "value": "Burundi"
+    },
+    {
+      "key": "nationality.country.KH",
+      "value": "Cambodia"
+    },
+    {
+      "key": "nationality.country.CM",
+      "value": "Cameroon"
+    },
+    {
+      "key": "nationality.country.CA",
+      "value": "Canada"
+    },
+    {
+      "key": "nationality.country.CV",
+      "value": "Cape Verde"
+    },
+    {
+      "key": "nationality.country.KY",
+      "value": "Cayman Islands"
+    },
+    {
+      "key": "nationality.country.CF",
+      "value": "Central African Republic"
+    },
+    {
+      "key": "nationality.country.TD",
+      "value": "Chad"
+    },
+    {
+      "key": "nationality.country.CL",
+      "value": "Chile"
+    },
+    {
+      "key": "nationality.country.CN",
+      "value": "China"
+    },
+    {
+      "key": "nationality.country.CX",
+      "value": "Christmas Island"
+    },
+    {
+      "key": "nationality.country.CC",
+      "value": "Cocos (keeling) Islands"
+    },
+    {
+      "key": "nationality.country.CO",
+      "value": "Colombia"
+    },
+    {
+      "key": "nationality.country.KM",
+      "value": "Comoros"
+    },
+    {
+      "key": "nationality.country.CG",
+      "value": "Congo"
+    },
+    {
+      "key": "nationality.country.CD",
+      "value": "Democratic Republic of Congo"
+    },
+    {
+      "key": "nationality.country.CK",
+      "value": "Cook Islands"
+    },
+    {
+      "key": "nationality.country.CR",
+      "value": "Costa Rica"
+    },
+    {
+      "key": "nationality.country.CI",
+      "value": "Cote Divoire"
+    },
+    {
+      "key": "nationality.country.HR",
+      "value": "Croatia"
+    },
+    {
+      "key": "nationality.country.CU",
+      "value": "Cuba"
+    },
+    {
+      "key": "nationality.country.CY",
+      "value": "Cyprus"
+    },
+    {
+      "key": "nationality.country.CZ",
+      "value": "Czech Republic"
+    },
+    {
+      "key": "nationality.country.DK",
+      "value": "Denmark"
+    },
+    {
+      "key": "nationality.country.DJ",
+      "value": "Djibouti"
+    },
+    {
+      "key": "nationality.country.DM",
+      "value": "Dominica"
+    },
+    {
+      "key": "nationality.country.DO",
+      "value": "Dominican Republic"
+    },
+    {
+      "key": "nationality.country.TL",
+      "value": "Timor Leste"
+    },
+    {
+      "key": "nationality.country.EC",
+      "value": "Ecuador"
+    },
+    {
+      "key": "nationality.country.EG",
+      "value": "Egypt"
+    },
+    {
+      "key": "nationality.country.SV",
+      "value": "El Salvador"
+    },
+    {
+      "key": "nationality.country.GQ",
+      "value": "Equatorial Guinea"
+    },
+    {
+      "key": "nationality.country.ER",
+      "value": "Eritrea"
+    },
+    {
+      "key": "nationality.country.EE",
+      "value": "Estonia"
+    },
+    {
+      "key": "nationality.country.ET",
+      "value": "Ethiopia"
+    },
+    {
+      "key": "nationality.country.FK",
+      "value": "Falkland Islands (malvinas)"
+    },
+    {
+      "key": "nationality.country.FO",
+      "value": "Faroe Islands"
+    },
+    {
+      "key": "nationality.country.FJ",
+      "value": "Fiji"
+    },
+    {
+      "key": "nationality.country.FI",
+      "value": "Finland"
+    },
+    {
+      "key": "nationality.country.FR",
+      "value": "France"
+    },
+    {
+      "key": "nationality.country.GF",
+      "value": "French Guiana"
+    },
+    {
+      "key": "nationality.country.PF",
+      "value": "French Polynesia"
+    },
+    {
+      "key": "nationality.country.TF",
+      "value": "French Southern Territories"
+    },
+    {
+      "key": "nationality.country.GA",
+      "value": "Gabon"
+    },
+    {
+      "key": "nationality.country.GM",
+      "value": "Gambia"
+    },
+    {
+      "key": "nationality.country.GE",
+      "value": "Georgia"
+    },
+    {
+      "key": "nationality.country.DE",
+      "value": "Germany"
+    },
+    {
+      "key": "nationality.country.GH",
+      "value": "Ghana"
+    },
+    {
+      "key": "nationality.country.GI",
+      "value": "Gibraltar"
+    },
+    {
+      "key": "nationality.country.GR",
+      "value": "Greece"
+    },
+    {
+      "key": "nationality.country.GL",
+      "value": "Greenland"
+    },
+    {
+      "key": "nationality.country.GD",
+      "value": "Grenada"
+    },
+    {
+      "key": "nationality.country.GP",
+      "value": "Guadeloupe"
+    },
+    {
+      "key": "nationality.country.GU",
+      "value": "Guam"
+    },
+    {
+      "key": "nationality.country.GT",
+      "value": "Guatemala"
+    },
+    {
+      "key": "nationality.country.GN",
+      "value": "Guinea"
+    },
+    {
+      "key": "nationality.country.GW",
+      "value": "Guinea-bissau"
+    },
+    {
+      "key": "nationality.country.GY",
+      "value": "Guyana"
+    },
+    {
+      "key": "nationality.country.HT",
+      "value": "Haiti"
+    },
+    {
+      "key": "nationality.country.HM",
+      "value": "Heard Island And Mcdonald Islands"
+    },
+    {
+      "key": "nationality.country.VA",
+      "value": "Vatican"
+    },
+    {
+      "key": "nationality.country.HN",
+      "value": "Honduras"
+    },
+    {
+      "key": "nationality.country.HK",
+      "value": "Hong Kong"
+    },
+    {
+      "key": "nationality.country.HU",
+      "value": "Hungary"
+    },
+    {
+      "key": "nationality.country.IS",
+      "value": "Iceland"
+    },
+    {
+      "key": "nationality.country.IN",
+      "value": "India"
+    },
+    {
+      "key": "nationality.country.ID",
+      "value": "Indonesia"
+    },
+    {
+      "key": "nationality.country.IR",
+      "value": "Iran"
+    },
+    {
+      "key": "nationality.country.IQ",
+      "value": "Iraq"
+    },
+    {
+      "key": "nationality.country.IE",
+      "value": "Ireland"
+    },
+    {
+      "key": "nationality.country.IM",
+      "value": "Manx"
+    },
+    {
+      "key": "nationality.country.IT",
+      "value": "Italy"
+    },
+    {
+      "key": "nationality.country.JM",
+      "value": "Jamaica"
+    },
+    {
+      "key": "nationality.country.JP",
+      "value": "Japan"
+    },
+    {
+      "key": "nationality.country.JO",
+      "value": "Jordan"
+    },
+    {
+      "key": "nationality.country.KZ",
+      "value": "Kazakhstan"
+    },
+    {
+      "key": "nationality.country.KE",
+      "value": "Kenya"
+    },
+    {
+      "key": "nationality.country.KI",
+      "value": "Kiribati"
+    },
+    {
+      "key": "nationality.country.KP",
+      "value": "North Korea"
+    },
+    {
+      "key": "nationality.country.KR",
+      "value": "South Korea"
+    },
+    {
+      "key": "nationality.country.XK",
+      "value": "Kosovo"
+    },
+    {
+      "key": "nationality.country.KW",
+      "value": "Kuwait"
+    },
+    {
+      "key": "nationality.country.KG",
+      "value": "Kyrgyzstan"
+    },
+    {
+      "key": "nationality.country.LA",
+      "value": "Laos"
+    },
+    {
+      "key": "nationality.country.LV",
+      "value": "Latvia"
+    },
+    {
+      "key": "nationality.country.LB",
+      "value": "Lebanon"
+    },
+    {
+      "key": "nationality.country.LS",
+      "value": "Lesotho"
+    },
+    {
+      "key": "nationality.country.LR",
+      "value": "Liberia"
+    },
+    {
+      "key": "nationality.country.LY",
+      "value": "Libya"
+    },
+    {
+      "key": "nationality.country.LI",
+      "value": "Liechtenstein"
+    },
+    {
+      "key": "nationality.country.LT",
+      "value": "Lithuania"
+    },
+    {
+      "key": "nationality.country.LU",
+      "value": "Luxembourg"
+    },
+    {
+      "key": "nationality.country.MO",
+      "value": "Macau"
+    },
+    {
+      "key": "nationality.country.MK",
+      "value": "Macedonia"
+    },
+    {
+      "key": "nationality.country.MG",
+      "value": "Madagascar"
+    },
+    {
+      "key": "nationality.country.MW",
+      "value": "Malawi"
+    },
+    {
+      "key": "nationality.country.MY",
+      "value": "Malaysia"
+    },
+    {
+      "key": "nationality.country.MV",
+      "value": "Maldives"
+    },
+    {
+      "key": "nationality.country.ML",
+      "value": "Mali"
+    },
+    {
+      "key": "nationality.country.MT",
+      "value": "Malta"
+    },
+    {
+      "key": "nationality.country.MH",
+      "value": "Marshall Islands"
+    },
+    {
+      "key": "nationality.country.MQ",
+      "value": "Martinique"
+    },
+    {
+      "key": "nationality.country.MR",
+      "value": "Mauritania"
+    },
+    {
+      "key": "nationality.country.MU",
+      "value": "Mauritius"
+    },
+    {
+      "key": "nationality.country.YT",
+      "value": "Mayotte"
+    },
+    {
+      "key": "nationality.country.MX",
+      "value": "Mexico"
+    },
+    {
+      "key": "nationality.country.FM",
+      "value": "Micronesia Federated States Of"
+    },
+    {
+      "key": "nationality.country.MD",
+      "value": "Moldova"
+    },
+    {
+      "key": "nationality.country.MC",
+      "value": "Monaco"
+    },
+    {
+      "key": "nationality.country.MN",
+      "value": "Mongolia"
+    },
+    {
+      "key": "nationality.country.MS",
+      "value": "Montserrat"
+    },
+    {
+      "key": "nationality.country.ME",
+      "value": "Montenegro"
+    },
+    {
+      "key": "nationality.country.MA",
+      "value": "Western Sahara"
+    },
+    {
+      "key": "nationality.country.MZ",
+      "value": "Mozambique"
+    },
+    {
+      "key": "nationality.country.MM",
+      "value": "Myanmar"
+    },
+    {
+      "key": "nationality.country.NA",
+      "value": "Namibia"
+    },
+    {
+      "key": "nationality.country.NR",
+      "value": "Nauru"
+    },
+    {
+      "key": "nationality.country.NP",
+      "value": "Nepal"
+    },
+    {
+      "key": "nationality.country.AN",
+      "value": "Netherlands Antilles"
+    },
+    {
+      "key": "nationality.country.NC",
+      "value": "New Caledonia"
+    },
+    {
+      "key": "nationality.country.NZ",
+      "value": "New Zealand"
+    },
+    {
+      "key": "nationality.country.NI",
+      "value": "Nicaragua"
+    },
+    {
+      "key": "nationality.country.NE",
+      "value": "Niger"
+    },
+    {
+      "key": "nationality.country.NG",
+      "value": "Nigeria"
+    },
+    {
+      "key": "nationality.country.NU",
+      "value": "Niue"
+    },
+    {
+      "key": "nationality.country.NF",
+      "value": "Norfolk Island"
+    },
+    {
+      "key": "nationality.country.MP",
+      "value": "Northern Mariana Islands"
+    },
+    {
+      "key": "nationality.country.NO",
+      "value": "Norway"
+    },
+    {
+      "key": "nationality.country.OM",
+      "value": "Oman"
+    },
+    {
+      "key": "nationality.country.PK",
+      "value": "Pakistan"
+    },
+    {
+      "key": "nationality.country.PW",
+      "value": "Palau"
+    },
+    {
+      "key": "nationality.country.PS",
+      "value": "Palestine"
+    },
+    {
+      "key": "nationality.country.PA",
+      "value": "Panama"
+    },
+    {
+      "key": "nationality.country.PG",
+      "value": "Papua New Guinea"
+    },
+    {
+      "key": "nationality.country.PY",
+      "value": "Paraguay"
+    },
+    {
+      "key": "nationality.country.PE",
+      "value": "Peru"
+    },
+    {
+      "key": "nationality.country.PH",
+      "value": "Philippines"
+    },
+    {
+      "key": "nationality.country.PN",
+      "value": "Pitcairn"
+    },
+    {
+      "key": "nationality.country.PL",
+      "value": "Poland"
+    },
+    {
+      "key": "nationality.country.PT",
+      "value": "Portugal"
+    },
+    {
+      "key": "nationality.country.PR",
+      "value": "Puerto Rico"
+    },
+    {
+      "key": "nationality.country.QA",
+      "value": "Qatar"
+    },
+    {
+      "key": "nationality.country.RO",
+      "value": "Romania"
+    },
+    {
+      "key": "nationality.country.RU",
+      "value": "Russian Federation"
+    },
+    {
+      "key": "nationality.country.RW",
+      "value": "Rwanda"
+    },
+    {
+      "key": "nationality.country.SH",
+      "value": "Saint Helena"
+    },
+    {
+      "key": "nationality.country.KN",
+      "value": "Saint Kitts And Nevis"
+    },
+    {
+      "key": "nationality.country.LC",
+      "value": "Saint Lucia"
+    },
+    {
+      "key": "nationality.country.PM",
+      "value": "Saint Pierre And Miquelon"
+    },
+    {
+      "key": "nationality.country.VC",
+      "value": "Saint Vincent And The Grenadines"
+    },
+    {
+      "key": "nationality.country.WS",
+      "value": "Samoa"
+    },
+    {
+      "key": "nationality.country.SM",
+      "value": "San Marino"
+    },
+    {
+      "key": "nationality.country.ST",
+      "value": "Sao Tome And Principe"
+    },
+    {
+      "key": "nationality.country.SA",
+      "value": "Saudi Arabia"
+    },
+    {
+      "key": "nationality.country.SN",
+      "value": "Senegal"
+    },
+    {
+      "key": "nationality.country.RS",
+      "value": "Serbia"
+    },
+    {
+      "key": "nationality.country.SC",
+      "value": "Seychelles"
+    },
+    {
+      "key": "nationality.country.SL",
+      "value": "Sierra Leone"
+    },
+    {
+      "key": "nationality.country.SG",
+      "value": "Singapore"
+    },
+    {
+      "key": "nationality.country.SK",
+      "value": "Slovakia"
+    },
+    {
+      "key": "nationality.country.SI",
+      "value": "Slovenia"
+    },
+    {
+      "key": "nationality.country.SB",
+      "value": "Solomon Islands"
+    },
+    {
+      "key": "nationality.country.SO",
+      "value": "Somalia"
+    },
+    {
+      "key": "nationality.country.ZA",
+      "value": "South Africa"
+    },
+    {
+      "key": "nationality.country.GS",
+      "value": "South Georgia And The South Sandwich Islands"
+    },
+    {
+      "key": "nationality.country.SS",
+      "value": "South Sudanese"
+    },
+    {
+      "key": "nationality.country.ES",
+      "value": "Spain"
+    },
+    {
+      "key": "nationality.country.LK",
+      "value": "Sri Lanka"
+    },
+    {
+      "key": "nationality.country.SD",
+      "value": "Sudan"
+    },
+    {
+      "key": "nationality.country.SR",
+      "value": "Suriname"
+    },
+    {
+      "key": "nationality.country.SJ",
+      "value": "Svalbard And Jan Mayen"
+    },
+    {
+      "key": "nationality.country.SZ",
+      "value": "Swaziland"
+    },
+    {
+      "key": "nationality.country.SE",
+      "value": "Sweden"
+    },
+    {
+      "key": "nationality.country.CH",
+      "value": "Switzerland"
+    },
+    {
+      "key": "nationality.country.SY",
+      "value": "Syria"
+    },
+    {
+      "key": "nationality.country.TW",
+      "value": "Taiwan"
+    },
+    {
+      "key": "nationality.country.TJ",
+      "value": "Tajikistan"
+    },
+    {
+      "key": "nationality.country.TZ",
+      "value": "Tanzania"
+    },
+    {
+      "key": "nationality.country.TH",
+      "value": "Thailand"
+    },
+    {
+      "key": "nationality.country.TG",
+      "value": "Togo"
+    },
+    {
+      "key": "nationality.country.TK",
+      "value": "Tokelau"
+    },
+    {
+      "key": "nationality.country.TO",
+      "value": "Tonga"
+    },
+    {
+      "key": "nationality.country.TT",
+      "value": "Trinidad And Tobago"
+    },
+    {
+      "key": "nationality.country.TN",
+      "value": "Tunisia"
+    },
+    {
+      "key": "nationality.country.TR",
+      "value": "Turkey"
+    },
+    {
+      "key": "nationality.country.TM",
+      "value": "Turkmenistan"
+    },
+    {
+      "key": "nationality.country.TC",
+      "value": "Turks And Caicos Islands"
+    },
+    {
+      "key": "nationality.country.TV",
+      "value": "Tuvalu"
+    },
+    {
+      "key": "nationality.country.UG",
+      "value": "Uganda"
+    },
+    {
+      "key": "nationality.country.UA",
+      "value": "Ukraine"
+    },
+    {
+      "key": "nationality.country.AE",
+      "value": "United Arab Emirates"
+    },
+    {
+      "key": "nationality.country.GB",
+      "value": "United Kingdom"
+    },
+    {
+      "key": "nationality.country.US",
+      "value": "United States"
+    },
+    {
+      "key": "nationality.country.UM",
+      "value": "United States Minor Outlying Islands"
+    },
+    {
+      "key": "nationality.country.UY",
+      "value": "Uruguay"
+    },
+    {
+      "key": "nationality.country.UZ",
+      "value": "Uzbekistan"
+    },
+    {
+      "key": "nationality.country.VE",
+      "value": "Venezuela"
+    },
+    {
+      "key": "nationality.country.VN",
+      "value": "Viet Nam"
+    },
+    {
+      "key": "nationality.country.VG",
+      "value": "Virgin Islands British"
+    },
+    {
+      "key": "nationality.country.VI",
+      "value": "Virgin Islands U.s."
+    },
+    {
+      "key": "nationality.country.WF",
+      "value": "Wallis And Futuna"
+    },
+    {
+      "key": "nationality.country.VU",
+      "value": "Vanuatu"
+    },
+    {
+      "key": "nationality.country.YE",
+      "value": "Yemen"
+    },
+    {
+      "key": "nationality.country.ZM",
+      "value": "Zambia"
+    },
+    {
+      "key": "nationality.country.ZW",
+      "value": "Zimbabwe"
+    },
+    {
+      "key": "systemSettings.acknowledgements.title",
+      "value": "Acknowledgements"
+    },
+    {
+      "key": "fusion.release.notes.1.5",
+      "value": "> Improved Check-In Support for partner airlines \n\n> Hotel bookings \n\n> Car Hire bookings \n\n> Easily share your trips via email \n\n> Access your trips on mobile via external links e.g. booking confirmation email."
+    },
+    {
+      "key": "fusion.release.notes.1.6",
+      "value": "> Manage your booking e.g. Buy or Upgrade your Seats before Check-In"
+    }
+  ]
+}
