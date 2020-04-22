@@ -1,7 +1,7 @@
 # PRODUCT-TRANSLATIONS
 
 ### What is this repository for?
-This repository contains string bundles for all products, organised by product (e.g. concierge-itinerary, ada, fusion, engage) and domain (mobile, server or web).
+This repository contains string bundles for all products, organised by product (e.g. tr concierge-itinerary, ada, fusion, engage) and domain (mobile, server or web).
 
 It is designed to be used by the translations-fetcher plugin to construct string bundle files for Android, iOS and Server projects.
 
