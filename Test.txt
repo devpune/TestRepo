@@ -1,2 +1,2 @@
 Test new
-New Commit
+New Commit.
